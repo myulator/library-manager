@@ -6,11 +6,16 @@ Date: November 5, 2020
 """
 # Possible Book Locations
 
-# shelf = []
-# bedroom = []
-# quilting_room = []
-# coffee_table = []
-
+shelf = []
+bedroom = []
+quilting_room = []
+coffee_table = []
+noguchi = []
+gaby = []
+lego = []
+students = []
+island = []
+reading = []
 
 def books():
     """
@@ -125,7 +130,7 @@ def move_book(collection):
     new_location = input('Please input the location you wish to move the book to: ')
 
     # locate the book (dictionary) in the search_results and change the value of 'shelf' key to the new_location
-    book_dict = search_results[(book_to_move) - 1]
+    book_dict = search_results[book_to_move - 1]
     book_dict['shelf'] = new_location
 
     return collection
