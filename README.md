@@ -13,5 +13,10 @@
 # get_valid_locations
 # search
 # search_title
+# search_author
+# search_publisher
+# search_shelf
+# search_category
+# search_subject
 # main
 
