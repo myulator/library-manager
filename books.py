@@ -24,8 +24,6 @@ def books():
     collection = load_data()
     return collection
 
-    pass
-
 
 def load_data():
     """
@@ -34,9 +32,9 @@ def load_data():
     :return: a tuple containing dictionaries, with each dictionary representing the book info of one book
 
     >>> print(load_data())
-    [{'Author': 'Dupre', 'Title': 'Skyscrapers', 'Publisher': 'BD&L', 'Shelf': '12', 'Category': 'Architecture'},
-    {'Author': 'Hollingsworth', 'Title': 'Architecture of the 20th Century', 'Publisher': 'Exeter', 'Shelf': '6',
-    'Category': 'Architecture'}, .... and so on ... ]
+    [{'Author': 'Dupre', 'Title': 'Skyscrapers', 'Publisher': 'BD&L', 'Shelf': '12', 'Category': 'Architecture',
+    'Subject': '20th Century'}, {'Author': 'Hollingsworth', 'Title': 'Architecture of the 20th Century', 'Publisher':
+    'Exeter', 'Shelf': '6', 'Category': 'Architecture'}, .... and so on ... ]
     """
     collection = []
     filename = 'Books UTF-16.txt'
@@ -45,9 +43,10 @@ def load_data():
 
         for line in file_object:
             book_info = list(line.split('\t'))
-            book_dict = {keys_list[i]: book_info[i] for i in range(5)}
+            book_dict = {keys_list[i]: book_info[i] for i in range(6)}
             collection.append(book_dict)
     tuple(collection)
+    print(collection)
     return collection
 
 
@@ -79,7 +78,7 @@ def menu(collection):
     print('--------------------------------------------')
 
     # Ask for input
-    menu_selection = input('Please input a number to make a selection:')
+    menu_selection = int(input('Please input a number to make a selection:'))
     if menu_selection == 1:
         search(collection)
     elif menu_selection == 2:
@@ -88,8 +87,6 @@ def menu(collection):
     elif menu_selection == 3:
         quit_requested = 1
         return quit_requested
-
-    pass
 
 
 def quit_books(collection):
@@ -105,7 +102,7 @@ def quit_books(collection):
     with open(filename, 'w') as file_object:
         for line in collection:
             file_object.write(line)
-    pass
+
 
 
 def move_book(collection):
@@ -134,7 +131,7 @@ def move_book(collection):
     book_dict['shelf'] = new_location
 
     return collection
-    pass
+
 
 
 def get_valid_locations(collection):
@@ -167,41 +164,20 @@ def search(collection):
     4 = Shelf
     5 = Category
     6 = Subject
+    -------------------------------------
     Please input a number to make a selection:
     >>>
     """
-
-    search_input = input('Please input a number to make a selection:')
-    if search_input == 1:
-        search_results = search_author(collection)
-    if search_input == 2:
-        search_results = search_title(collection)
-        # and so on...
-
-    return search_results
-    pass
+    print('--------------------------------------------')
+    print('Search for a book by:')
+    print('1 = Author\n2 = Title\n3 = Publisher\n4 = Shelf\n5 = Category\n6 = Subject')
+    print('--------------------------------------------')
+    search_input = int(input('Please input a number to make a selection:'))
+    results = search_results(collection, search_input)
+    return results
 
 
-def search_title(collection):
-    """
-    Search for a book by its title.
-
-    :algorithm:
-    1. what are you searching for (store the input)
-    2. loop through each tuple of books, check the value associated with the book title
-    3. make a temporary list of addresses of the books in memory
-    4. use enumerate function to print out the contents of each dictionary (this will show all search results)
-    5. return the list
-
-    :precondition: User must enter a string representing their search.
-    :postcondition: Print an enumerated list of search results to the screen, then return the list.
-    :param collection: a tuple of dictionaries representing the book collection.
-    :return: a list of the search results
-    """
-    pass
-
-
-def search_author(collection):
+def search_results(collection, search_input):
     """
     Search for a book by its author.
 
@@ -215,9 +191,20 @@ def search_author(collection):
     :precondition: User must enter a string representing their search.
     :postcondition: Print an enumerated list of search results to the screen, then return the list.
     :param collection: a tuple of dictionaries representing the book collection.
+    :param input: an integer representing the user's desired search filter
     :return: a list of the search results
     """
-    pass
+    filters = ['Author', 'Title', 'Publisher', 'Shelf', 'Category', 'Subject']
+    results_list = []
+    query = input(f'Searching by {filters[search_input - 1]} : ')
+    for book in collection:
+        if query in book[filters[search_input - 1]]:
+            results_list.append(book)
+
+    printed_list = enumerate(results_list)
+    print(results_list)
+    return results_list
+
 
 
 def search_publisher(collection):
