@@ -39,14 +39,14 @@ def load_data():
     collection = []
     filename = 'Books UTF-16.txt'
     with open(filename, encoding='UTF-16') as file_object:
-        keys_list = list(file_object.readline().split('\t'))
+        keys_list = list(file_object.readline().strip().split('\t'))
 
         for line in file_object:
-            book_info = list(line.split('\t'))
+            book_info = list(line.strip().split('\t'))
             book_dict = {keys_list[i]: book_info[i] for i in range(6)}
             collection.append(book_dict)
+
     tuple(collection)
-    print(collection)
     return collection
 
 
@@ -179,7 +179,10 @@ def search(collection):
 
 def search_results(collection, search_input):
     """
-    Search for a book by its author.
+    Search for a book.
+
+    This function accepts the search_input passed from search() to determine the desired search filter.
+    E.g. A search_input of 3 would indicate that the user would like to search by publisher.
 
     :algorithm:
     1. what are you searching for (store the input)
@@ -191,8 +194,8 @@ def search_results(collection, search_input):
     :precondition: User must enter a string representing their search.
     :postcondition: Print an enumerated list of search results to the screen, then return the list.
     :param collection: a tuple of dictionaries representing the book collection.
-    :param input: an integer representing the user's desired search filter
-    :return: a list of the search results
+    :param search_input: an integer representing the user's desired search filter
+    :return: a list of dictionaries representing books that were pulled from the search
     """
     filters = ['Author', 'Title', 'Publisher', 'Shelf', 'Category', 'Subject']
     results_list = []
@@ -201,86 +204,13 @@ def search_results(collection, search_input):
         if query in book[filters[search_input - 1]]:
             results_list.append(book)
 
-    printed_list = enumerate(results_list)
-    print(results_list)
+    for book_dict in results_list:
+        print(f'#{results_list.index(book_dict) + 1}')
+        for key, value in book_dict.items():
+            print(f'\t{key}: {value}')
+        print('\n')
+
     return results_list
-
-
-
-def search_publisher(collection):
-    """
-    Search for a book by its publisher.
-
-    :algorithm:
-    1. what are you searching for (store the input)
-    2. loop through each tuple of books, check the value associated with the publisher
-    3. make a temporary list of addresses of the books in memory
-    4. use enumerate function to print out the contents of each dictionary (this will show all search results)
-    5. return the list
-
-    :precondition: User must enter a string representing their search.
-    :postcondition: Print an enumerated list of search results to the screen, then return the list.
-    :param collection: a tuple of dictionaries representing the book collection.
-    :return: a list of the search results
-    """
-    pass
-
-
-def search_shelf(collection):
-    """
-    Search for a book by its shelf.
-
-    :algorithm:
-    1. what are you searching for (store the input)
-    2. loop through each tuple of books, check the value associated with the shelf
-    3. make a temporary list of addresses of the books in memory
-    4. use enumerate function to print out the contents of each dictionary (this will show all search results)
-    5. return the list
-
-    :precondition: User must enter a string representing their search.
-    :postcondition: Print an enumerated list of search results to the screen, then return the list.
-    :param collection: a tuple of dictionaries representing the book collection.
-    :return: a list of the search results
-    """
-    pass
-
-
-def search_category(collection):
-    """
-    Search for a book by its category.
-
-    :algorithm:
-    1. what are you searching for (store the input)
-    2. loop through each tuple of books, check the value associated with the category
-    3. make a temporary list of addresses of the books in memory
-    4. use enumerate function to print out the contents of each dictionary (this will show all search results)
-    5. return the list
-
-    :precondition: User must enter a string representing their search.
-    :postcondition: Print an enumerated list of search results to the screen, then return the list.
-    :param collection: a tuple of dictionaries representing the book collection.
-    :return: a list of the search results
-    """
-    pass
-
-
-def search_subject(collection):
-    """
-    Search for a book by its subject.
-
-    :algorithm:
-    1. what are you searching for (store the input)
-    2. loop through each tuple of books, check the value associated with the subject
-    3. make a temporary list of addresses of the books in memory
-    4. use enumerate function to print out the contents of each dictionary (this will show all search results)
-    5. return the list
-
-    :precondition: User must enter a string representing their search.
-    :postcondition: Print an enumerated list of search results to the screen, then return the list.
-    :param collection: a tuple of dictionaries representing the book collection.
-    :return: a list of the search results
-    """
-    pass
 
 
 def main():
