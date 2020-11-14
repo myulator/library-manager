@@ -17,6 +17,7 @@ students = []
 island = []
 reading = []
 
+
 def books():
     """
     Create a dictionary data structure that stores information from a text file
@@ -78,10 +79,11 @@ def menu(collection):
     print('--------------------------------------------')
 
     # Ask for input
-    menu_selection = int(input('Please input a number to make a selection:'))
+    menu_selection = int(input('Please input a number to make a selection: '))
     if menu_selection == 1:
         search(collection)
     elif menu_selection == 2:
+        print('You are about to move a book. Let\'s begin by finding your book first.')
         move_book(collection)
         return collection
     elif menu_selection == 3:
@@ -101,8 +103,7 @@ def quit_books(collection):
     filename = 'programming.txt'
     with open(filename, 'w') as file_object:
         for line in collection:
-            file_object.write(line)
-
+            file_object.write(line)     # TypeError: write() argument must be str, not dict
 
 
 def move_book(collection):
@@ -119,19 +120,18 @@ def move_book(collection):
     :return: a tuple of dictionaries representing the book collection after modifying a book's location.
     """
     # Call the search function and store the results
-    search_results = search(collection)
-    book_to_move = int(input('Please input the result number that corresponds to the book you wish to move: '))
+    results_list = search(collection)
+    book_to_move = int(input('Please input the number of the book you wish to move: '))
 
     # display all possible locations for the book to be moved
-    get_valid_locations(collection)
-    new_location = input('Please input the location you wish to move the book to: ')
+    new_location = get_valid_locations(collection)
 
     # locate the book (dictionary) in the search_results and change the value of 'shelf' key to the new_location
-    book_dict = search_results[book_to_move - 1]
-    book_dict['shelf'] = new_location
+    book_dict = results_list[book_to_move - 1]
+    book_dict['Shelf'] = new_location
 
     return collection
-
+    # don't need to return if we're just modifying
 
 
 def get_valid_locations(collection):
@@ -139,11 +139,23 @@ def get_valid_locations(collection):
     Return a list of valid book locations
 
     :param collection: a tuple of dictionaries representing the book collection.
+    :return: a list of all unique locations in the collection
     """
-    locations = []
+    unique_locations = []
     # for loop over the collection and append unique locations to the location list
+
+    for book_dict in collection:
+        if book_dict['Shelf'] not in unique_locations:
+            unique_locations.append(book_dict['Shelf'])
+
     # enumerate the results in the list and print them to the screen
-    pass
+    print(f'Here are the locations that you can move the book to: \n{sorted(unique_locations)}')
+
+    new_location = input('Please input the location you wish to move the book to: ')
+    if new_location in unique_locations:
+        return new_location
+    else:
+        print('That is not a valid location.')
 
 
 def search(collection):
@@ -200,9 +212,12 @@ def search_results(collection, search_input):
     filters = ['Author', 'Title', 'Publisher', 'Shelf', 'Category', 'Subject']
     results_list = []
     query = input(f'Searching by {filters[search_input - 1]} : ')
+
     for book in collection:
         if query in book[filters[search_input - 1]]:
             results_list.append(book)
+
+    print(f'Displaying {len(results_list)} results\n')
 
     for book_dict in results_list:
         print(f'#{results_list.index(book_dict) + 1}')
@@ -218,11 +233,14 @@ def main():
     Drives the program.
     """
     collection = books()
-    quit_requested = 0
-    while quit_requested != 1:
-        menu(collection)
-    if quit_requested == 1:
-        quit_books(collection)
+    quit_program = 0
+    while quit_program != 'exit':
+        query = menu(collection)
+        if query == 1:
+            quit_program = 'exit'
+    quit_books(collection)
+    print('Your library has been saved. Exiting program.')
+
 
 if __name__ == "__main__":
     main()
