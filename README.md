@@ -5,7 +5,6 @@
 # Student Number: A00962260
 
 # List of functions in your program: 
-# books
 # load_data
 # menu
 # quit_books

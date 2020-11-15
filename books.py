@@ -6,14 +6,6 @@ Date: November 5, 2020
 """
 
 
-def books():
-    """
-    Create a dictionary data structure that stores information from a text file
-    """
-    collection = load_data()
-    return collection
-
-
 def load_data():
     """
     Load all book data from the books.txt file
@@ -91,7 +83,7 @@ def quit_books(collection):
     # Write current information from books() data structure to the books.txt file
     filename = 'programming.txt'
     # use try and except here for saving?
-    with open(filename, 'w') as file_object:
+    with open(filename, encoding='UTF-16') as file_object:
         for line in collection:
             file_object.write(line)     # TypeError: write() argument must be str, not dict
 
@@ -111,6 +103,8 @@ def move_book(collection):
     """
     # Call the search function and store the results
     results_list = search(collection)
+    if not results_list:
+        return
     book_to_move = int(input('Please input the number of the book you wish to move: '))
 
     # display all possible locations for the book to be moved
@@ -142,13 +136,11 @@ def get_valid_locations(collection):
     for location in unique_locations[38:]:
         print(f'\t{location}')
 
-    invalid_move = True
-    while invalid_move:
-        new_location = input('Please input the location you wish to move the book to: ')
-        if new_location.strip() in unique_locations:
-            return new_location
-        else:
-            print('That is not a valid location. Please enter a number between 1 to 38 or the location name.\n')
+    new_location = input('Please enter a number between 1 to 38 or the location name.')
+    if new_location.strip() in unique_locations:
+        return new_location
+    else:
+        print('That is not a valid location. Returning to the main menu.\n')
 
 
 def search(collection):
@@ -205,12 +197,16 @@ def search_results(collection, search_input):
     filters = ['Author', 'Title', 'Publisher', 'Shelf', 'Category', 'Subject']
     results_list = []
     query = input(f'Searching by {filters[search_input - 1]} : ')
+    if filters[search_input - 1] == 'Shelf':
+        for book in collection:
+            if query.strip().lower() == book[filters[search_input - 1]].lower():
+                results_list.append(book)
+    else:
+        for book in collection:
+            if query.strip().lower() in book[filters[search_input - 1]].lower():
+                results_list.append(book)
 
-    for book in collection:
-        if query.strip().lower() in book[filters[search_input - 1]].lower():
-            results_list.append(book)
-
-    print(f'Displaying {len(results_list)} result(s)\n')
+    print(f'Your search returned {len(results_list)} result(s)\n')
 
     for book_dict in results_list:
         print(f'#{results_list.index(book_dict) + 1}')
@@ -225,7 +221,7 @@ def main():
     """
     Drives the program.
     """
-    collection = books()
+    collection = load_data()
     quit_program = 0
     while quit_program != 'exit':
         query = menu(collection)
