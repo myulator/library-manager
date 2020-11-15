@@ -27,7 +27,6 @@ def load_data():
             book_dict = {keys_list[i]: book_info[i] for i in range(6)}
             collection.append(book_dict)
 
-    tuple(collection)
     return collection
 
 
@@ -82,10 +81,18 @@ def quit_books(collection):
     """
     # Write current information from books() data structure to the books.txt file
     filename = 'programming.txt'
-    # use try and except here for saving?
-    with open(filename, encoding='UTF-16') as file_object:
-        for line in collection:
-            file_object.write(line)     # TypeError: write() argument must be str, not dict
+    try:
+        with open(filename, 'w', encoding='UTF-16') as file_object:
+            file_object.write('Author\tTitle\tPublisher\tShelf\tCategory\tSubject\n')
+            for book in collection:
+                for key, value in book.items():
+                    file_object.write(value + '\t')
+                file_object.write('\n')
+        print('Collection has been saved successfully.')
+    except UnicodeEncodeError:
+        print('Encountered Unicode encoding error. Collection has not been saved properly.')
+    finally:
+        print('Exiting program.')
 
 
 def move_book(collection):
@@ -223,12 +230,12 @@ def main():
     """
     collection = load_data()
     quit_program = 0
+    print('Welcome to your book manager.')
     while quit_program != 'exit':
         query = menu(collection)
         if query == 1:
             quit_program = 'exit'
     quit_books(collection)
-    print('Your library has been saved. Exiting program.')
 
 
 if __name__ == "__main__":
