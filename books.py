@@ -4,18 +4,6 @@ Student: Michael Yu
 Student ID: A00962260
 Date: November 5, 2020
 """
-# Possible Book Locations
-
-shelf = []
-bedroom = []
-quilting_room = []
-coffee_table = []
-noguchi = []
-gaby = []
-lego = []
-students = []
-island = []
-reading = []
 
 
 def books():
@@ -65,12 +53,12 @@ def menu(collection):
             if user input is '3': return the modified main while loop condition.
 
     --------------------------------------------
-    Please make a selection:
+    Menu:
     1 = Search book collection
     2 = Change book location
     3 = Quit
     --------------------------------------------
-    Please input a number and press enter to make a selection:
+    Please input a number to make a selection:
     """
     # Print a legend of input options
     print('--------------------------------------------')
@@ -89,6 +77,8 @@ def menu(collection):
     elif menu_selection == 3:
         quit_requested = 1
         return quit_requested
+    else:
+        print('Error: That is not a valid input. Please enter a number from 1 to 3.')
 
 
 def quit_books(collection):
@@ -99,8 +89,8 @@ def quit_books(collection):
     :postcondition: always writes the current state of the collection into a new text file called programming.
     """
     # Write current information from books() data structure to the books.txt file
-
     filename = 'programming.txt'
+    # use try and except here for saving?
     with open(filename, 'w') as file_object:
         for line in collection:
             file_object.write(line)     # TypeError: write() argument must be str, not dict
@@ -129,9 +119,7 @@ def move_book(collection):
     # locate the book (dictionary) in the search_results and change the value of 'shelf' key to the new_location
     book_dict = results_list[book_to_move - 1]
     book_dict['Shelf'] = new_location
-
-    return collection
-    # don't need to return if we're just modifying
+    print(f'The book has been successfully moved to {new_location}')
 
 
 def get_valid_locations(collection):
@@ -142,20 +130,25 @@ def get_valid_locations(collection):
     :return: a list of all unique locations in the collection
     """
     unique_locations = []
-    # for loop over the collection and append unique locations to the location list
+    for number in range(1, 39):
+        unique_locations.append(str(number))
 
     for book_dict in collection:
         if book_dict['Shelf'] not in unique_locations:
             unique_locations.append(book_dict['Shelf'])
 
     # enumerate the results in the list and print them to the screen
-    print(f'Here are the locations that you can move the book to: \n{sorted(unique_locations)}')
+    print(f'Here are the locations that you can move the book to: \n\tShelf numbers 1 to 38')
+    for location in unique_locations[38:]:
+        print(f'\t{location}')
 
-    new_location = input('Please input the location you wish to move the book to: ')
-    if new_location in unique_locations:
-        return new_location
-    else:
-        print('That is not a valid location.')
+    invalid_move = True
+    while invalid_move:
+        new_location = input('Please input the location you wish to move the book to: ')
+        if new_location.strip() in unique_locations:
+            return new_location
+        else:
+            print('That is not a valid location. Please enter a number between 1 to 38 or the location name.\n')
 
 
 def search(collection):
@@ -214,10 +207,10 @@ def search_results(collection, search_input):
     query = input(f'Searching by {filters[search_input - 1]} : ')
 
     for book in collection:
-        if query in book[filters[search_input - 1]]:
+        if query.strip().lower() in book[filters[search_input - 1]].lower():
             results_list.append(book)
 
-    print(f'Displaying {len(results_list)} results\n')
+    print(f'Displaying {len(results_list)} result(s)\n')
 
     for book_dict in results_list:
         print(f'#{results_list.index(book_dict) + 1}')
