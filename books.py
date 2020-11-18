@@ -2,15 +2,17 @@
 Book collection manager.
 Student: Michael Yu
 Student ID: A00962260
-Date: November 5, 2020
+Date: November 18, 2020
 """
 
 
 def load_data():
     """
-    Load all book data from the books.txt file
+    Load all data from a text file into a data structure for use by the book manager.
 
-    :return: a tuple containing dictionaries, with each dictionary representing the book info of one book
+    :precondition: there must be a text file in the current directory with the name 'Books UTF-16.txt'
+    :postcondition: creates a data structure for the data in the file
+    :return: a list containing dictionaries, with each dictionary representing the book info of one book
 
     >>> print(load_data())
     [{'Author': 'Dupre', 'Title': 'Skyscrapers', 'Publisher': 'BD&L', 'Shelf': '12', 'Category': 'Architecture',
@@ -30,18 +32,18 @@ def load_data():
     return collection
 
 
-def menu(collection):
+def menu(collection: list):
     """
     Ask user what they want to do.
 
     Print a menu to the screen that associates a number input with a function. Prompt the user for input.
-    Call the function that matches user's input.
+    Proceed with the function pathway that matches user's input.
 
     :precondition: User must input either 1, 2, or 3.
     :postcondition: Execute the appropriate search, move, or quit function.
-    :param collection: a tuple of dictionaries representing the book collection.
+    :param collection: a list of dictionaries representing the book collection.
     :return: if user input is '2': return collection after book has been moved.
-            if user input is '3': return the modified main while loop condition.
+            if user input is '3': invalidate the main while loop condition and return it.
 
     --------------------------------------------
     Menu:
@@ -51,13 +53,11 @@ def menu(collection):
     --------------------------------------------
     Please input a number to make a selection:
     """
-    # Print a legend of input options
     print('--------------------------------------------')
     print('Menu:')
     print('1 = Search book collection\n2 = Change book location\n3 = Quit')
     print('--------------------------------------------')
 
-    # Ask for input
     menu_selection = int(input('Please input a number to make a selection: '))
     if menu_selection == 1:
         search(collection)
@@ -72,20 +72,24 @@ def menu(collection):
         print('Error: That is not a valid input. Please enter a number from 1 to 3.')
 
 
-def quit_books(collection):
+def quit_books(collection: list):
     """
-    Saves the file and exits the program.
+    Save the collection as a new file.
 
-    :param collection: a tuple of dictionaries representing the book collection.
+    Write all current information from collection data structure to a text file.
+
+    :param collection: a list of dictionaries representing the book collection.
     :postcondition: always writes the current state of the collection into a new text file called programming.
     """
-    # Write current information from books() data structure to the books.txt file
     filename = 'programming.txt'
     try:
         with open(filename, 'w', encoding='UTF-16') as file_object:
+            # write the section headers into the file as the first line.
             file_object.write('Author\tTitle\tPublisher\tShelf\tCategory\tSubject\n')
+
             for book in collection:
                 for key, value in book.items():
+                    # write each detail of the book into the file, each followed with a tab.
                     file_object.write(value + '\t')
                 file_object.write('\n')
         print('Collection has been saved successfully.')
@@ -95,39 +99,42 @@ def quit_books(collection):
         print('Exiting program.')
 
 
-def move_book(collection):
+def move_book(collection: list):
     """
     Relocate a book in the collection.
 
     Call search function to find the book of interest. Ask user to identify which book they would like to move.
-    Display a list of available locations from get_valid_locations.
-    Prompt user to select the location they would like to move their selected book to.
+    Obtain user input for the new location from get_valid_locations.
+    Change the location data of the book to the new location.
 
-    :precondition: User must enter an integer first, then a string representing the book's new location.
-    :postcondition: Change the location of the book by editing the value of the shelf key in the dictionary.
-    :param collection: a tuple of dictionaries representing the book collection.
-    :return: a tuple of dictionaries representing the book collection after modifying a book's location.
+    :precondition: User must enter an integer between 1 and the largest number in the list of results.
+    :postcondition: Change the location of the book by editing the value of the shelf key in its dictionary.
+    :param collection: a list of dictionaries representing the book collection.
+    :return: a list of dictionaries representing the book collection after modifying a book's location.
     """
-    # Call the search function and store the results
     results_list = search(collection)
+    # if there are no results the results list, go back to the main menu.
     if not results_list:
         return
-    book_to_move = int(input('Please input the number of the book you wish to move: '))
 
-    # display all possible locations for the book to be moved
+    book_to_move = int(input('Please input the number of the book you wish to move: '))
+    if book_to_move > len(results_list):
+        print('That result number is not in the list!')
+        return
+
     new_location = get_valid_locations(collection)
 
-    # locate the book (dictionary) in the search_results and change the value of 'shelf' key to the new_location
+    # locate the book in search_results and change the value of 'shelf' key to the new_location
     book_dict = results_list[book_to_move - 1]
     book_dict['Shelf'] = new_location
     print(f'The book has been successfully moved to {new_location}')
 
 
-def get_valid_locations(collection):
+def get_valid_locations(collection: list):
     """
     Return a list of valid book locations
 
-    :param collection: a tuple of dictionaries representing the book collection.
+    :param collection: a list of dictionaries representing the book collection.
     :return: a list of all unique locations in the collection
     """
     unique_locations = []
@@ -138,7 +145,6 @@ def get_valid_locations(collection):
         if book_dict['Shelf'] not in unique_locations:
             unique_locations.append(book_dict['Shelf'])
 
-    # enumerate the results in the list and print them to the screen
     print(f'Here are the locations that you can move the book to: \n\tShelf numbers 1 to 38')
     for location in unique_locations[38:]:
         print(f'\t{location}')
@@ -150,15 +156,17 @@ def get_valid_locations(collection):
         print('That is not a valid location. Returning to the main menu.\n')
 
 
-def search(collection):
+def search(collection: list):
     """
     Direct user to the desired search function.
 
-    Accept an integer that represents the search filter choice of the user. Then call appropriate search function.
+    Prompt user to enter a number between 1 and 6 that represents the search filter choice of the user.
+    Pass the collection and user input to search_results.
+    Return the list of results obtained from search_results.
 
-    :precondition: User must enter an integer.
+    :precondition: User must enter an integer between 1 and 6 inclusively.
     :postcondition: Execute the search using the selected search filter.
-    :param collection: a tuple of dictionaries representing the book collection.
+    :param collection: a list of dictionaries representing the book collection.
     :return: a list of the search results
     -------------------------------------
     Search for a book by:
@@ -181,31 +189,27 @@ def search(collection):
     return results
 
 
-def search_results(collection, search_input):
+def search_results(collection: list, search_input: int):
     """
     Search for a book.
 
-    This function accepts the search_input passed from search() to determine the desired search filter.
+    This function accepts the search_input passed from search function to determine the desired search filter.
     E.g. A search_input of 3 would indicate that the user would like to search by publisher.
 
-    :algorithm:
-    1. what are you searching for (store the input)
-    2. loop through each tuple of books, check the value associated with the author
-    3. make a temporary list of addresses of the books in memory
-    4. use enumerate function to print out the contents of each dictionary (this will show all search results)
-    5. return the list
-
-    :precondition: User must enter a string representing their search.
-    :postcondition: Print an enumerated list of search results to the screen, then return the list.
-    :param collection: a tuple of dictionaries representing the book collection.
-    :param search_input: an integer representing the user's desired search filter
-    :return: a list of dictionaries representing books that were pulled from the search
+    :precondition: User must enter a non-empty string representing their search.
+                    When searching by location/shelf, user must enter the exact number/name of the location.
+    :postcondition: Print the number of results found and the enumerated list of search results, then return the list.
+    :param collection: a list of dictionaries representing the book collection.
+    :param search_input: an integer representing the user's desired search filter.
+    :return: a list of dictionaries representing books that were pulled from the search.
     """
     filters = ['Author', 'Title', 'Publisher', 'Shelf', 'Category', 'Subject']
     results_list = []
     query = input(f'Searching by {filters[search_input - 1]} : ')
     if filters[search_input - 1] == 'Shelf':
         for book in collection:
+            # This is a workaround for partial matches when searching by location.
+            # E.g. If input is '1', books in shelf 12 will not appear in the search results.
             if query.strip().lower() == book[filters[search_input - 1]].lower():
                 results_list.append(book)
     else:
