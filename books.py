@@ -17,7 +17,7 @@ def load_data():
     >>> print(load_data())
     [{'Author': 'Dupre', 'Title': 'Skyscrapers', 'Publisher': 'BD&L', 'Shelf': '12', 'Category': 'Architecture',
     'Subject': '20th Century'}, {'Author': 'Hollingsworth', 'Title': 'Architecture of the 20th Century', 'Publisher':
-    'Exeter', 'Shelf': '6', 'Category': 'Architecture'}, .... and so on ... ]
+    'Exeter', 'Shelf': '6', 'Category': 'Architecture'}, .... and so on, such that every book is in the list... ]
     """
     collection = []
     filename = 'Books UTF-16.txt'
@@ -118,7 +118,7 @@ def move_book(collection: list):
         return
 
     book_to_move = int(input('Please input the number of the book you wish to move: '))
-    if book_to_move > len(results_list):
+    if book_to_move > len(results_list) or book_to_move <= 0:
         print('That result number is not in the list!')
         return
 

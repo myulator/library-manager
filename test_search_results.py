@@ -6,21 +6,6 @@ from unittest.mock import patch
 
 class TestSearchResults(TestCase):
 
-    # @patch('builtins.input', side_effect=['AB'])
-    # @patch('sys.stdout', new_callable=io.StringIO)
-    # def test_search_results(self, mock_input, mock_stdout):
-    #     argument1 = [{'Author': 'ABBA'}, {'Author': 'NOEL'}, {'Author': 'BACK'}]
-    #     argument2 = 1
-    #
-    #     expected_return = [{'Author': 'ABBA'}]
-    #     actual_return = search_results(argument1, argument2)
-    #
-    #     search_results(argument1, argument2)
-    #     expected_print = 'Your search returned 1 result(s)\n\n#1\n\tAuthor: ABBA\n'
-    #
-    #     self.assertEqual(expected_return, actual_return, "One book has an author with 'AB' in it.")
-    #     self.assertEqual(expected_print, mock_stdout.getvalue())
-
     @patch('builtins.input', side_effect=['AB'])
     def test_search_results_author_upper_case_input(self, mock_input):
         argument1 = [{'Author': 'ABBA'}, {'Author': 'Cadabra'}, {'Author': 'BACK'}]
@@ -52,7 +37,7 @@ class TestSearchResults(TestCase):
         argument2 = 4
         expected_return = [{'Shelf': '3'}]
         actual_return = search_results(argument1, argument2)
-        self.assertEqual(expected_return, actual_return, "Input is an exact match of location in the book.")
+        self.assertEqual(expected_return, actual_return, "Only one book with location that matches the input exactly.")
 
     @patch('builtins.input', side_effect=['nog'])
     def test_search_results_shelf_partial_name(self, mock_input):
@@ -63,12 +48,12 @@ class TestSearchResults(TestCase):
         self.assertEqual(expected_return, actual_return, "Input is not an exact match of location in the book.")
 
     @patch('builtins.input', side_effect=['sci'])
-    def test_search_results_category_partial_search(self, mock_input):
-        argument1 = [{'Category': 'political-science'}, {'Category': 'ics'}, {'Category': ''}]
+    def test_search_results_category_partial_search_order(self, mock_input):
+        argument1 = [{'Category': 'political-sci'}, {'Category': 'political-ics'}, {'Category': 'political-cis'}]
         argument2 = 5
-        expected_return = [{'Category': 'political-science'}]
+        expected_return = [{'Category': 'political-sci'}]
         actual_return = search_results(argument1, argument2)
-        self.assertEqual(expected_return, actual_return, "Only one book has a category that matches the search.")
+        self.assertEqual(expected_return, actual_return, "Only one book has 'sci' input in the right order.")
 
     @patch('builtins.input', side_effect=['   trek      '])
     def test_search_results_subject_whitespace(self, mock_input):
@@ -77,5 +62,3 @@ class TestSearchResults(TestCase):
         expected_return = [{'Subject': 'StarTrek'}, {'Subject': 'Wilderness Trekking'}]
         actual_return = search_results(argument1, argument2)
         self.assertEqual(expected_return, actual_return, "Whitespace leading and trailing the input.")
-
-
