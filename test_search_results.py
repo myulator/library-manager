@@ -1,6 +1,5 @@
 from unittest import TestCase
 from books import search_results
-import io
 from unittest.mock import patch
 
 

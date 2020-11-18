@@ -9,7 +9,6 @@ class TestMoveBook(TestCase):
     @patch('books.search', side_effect=[[]])
     def test_move_book_empty_search_list(self, mock_search):
         argument = [{'Shelf': '30'}, {'Shelf': 'Desk'}, {'Shelf': '12'}]
-        results_list_mock = mock_search.return_value
         actual_return = books.move_book(argument)
         expected_return = None
         self.assertEqual(expected_return, actual_return, "Search results list is empty.")
@@ -19,7 +18,6 @@ class TestMoveBook(TestCase):
     @patch('sys.stdout', new_callable=io.StringIO)
     def test_move_book_input_not_in_results_list(self, mock_stdout, mock_input, mock_search):
         argument = [{'Shelf': '30'}, {'Shelf': 'Desk'}, {'Shelf': '12'}]
-        results_list_mock = mock_search.return_value
         actual_return = books.move_book(argument)
         expected_return = None
         expected_print = 'That result number is not in the list!\n'
@@ -31,7 +29,6 @@ class TestMoveBook(TestCase):
     @patch('sys.stdout', new_callable=io.StringIO)
     def test_move_book_input_is_zero(self, mock_stdout, mock_input, mock_search):
         argument = [{'Shelf': '30'}, {'Shelf': 'Desk'}, {'Shelf': '12'}]
-        results_list_mock = mock_search.return_value
         actual_return = books.move_book(argument)
         expected_return = None
         expected_print = 'That result number is not in the list!\n'
@@ -42,10 +39,8 @@ class TestMoveBook(TestCase):
     @patch('books.search', side_effect=[[{'Shelf': '30'}, {'Shelf': 'Desk'}, {'Shelf': '12'}]])
     @patch('builtins.input', side_effect=['1'])
     @patch('sys.stdout', new_callable=io.StringIO)
-    def test_move_book_empty_search_list(self, mock_stdout, mock_input, mock_search, mock_new_location):
+    def test_move_book_valid_input(self, mock_stdout, mock_input, mock_search, mock_new_location):
         argument = [{'Shelf': '30'}, {'Shelf': 'Desk'}, {'Shelf': '12'}]
-        results_list_mock = mock_search.return_value
-        new_location_mock = mock_new_location.return_value
         actual_return = books.move_book(argument)
         expected_return = None
         expected_print = 'The book has been successfully moved to Desk\n'
