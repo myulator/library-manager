@@ -1,12 +1,12 @@
-# Library Manager | BCIT CST COMP1510 (Programming Methods) Assignment
-Name: Michael Yu
-Date: November 2020
+# Library Manager | BCIT CST COMP1510 (Programming Methods) Assignment   
+Name: Michael Yu    
+Date: November 2020    
 
 *Given an Excel spreadsheet of book information that has been exported as a text file:*     
 This program allows the end user to copy the contents of a text file into memory and perform simple queries.    
 This program was created for home use, with the purpose of recording and organizing a personal book collection.
 
-Each book in the spreadsheet should contain 5 pieces of information, in this order, on each row:
+Each book in the spreadsheet should contain 5 pieces of information, in this order, on each row:   
 Author  
 Title   
 Publisher   
