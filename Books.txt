@@ -1,0 +1,1084 @@
+Author	Title	Publisher	Shelf	Category	Subject
+Dupre	Skyscrapers	BD&L	12	Architecture	20th Century
+Hollingsworth	Architecture of the 20th Century	Exeter	6	Architecture	20th Century
+Johnson Burgee	Architecture 1979-1985	Rizzoli	6	Architecture	20th Century
+Tzonis	Santiago Calatrava The Complete Works Expanded Edition	Rizzoli	12	Architecture	20th Century
+Breeze	L. A. Deco	Rizzoli	16	Architecture	American Architecture
+Brownlee	Making a Moden Classic The Architecture of the Philadelphia Museum of Art	Philadelphia Museum of Art	10	Architecture	American Architecture
+Editoriale Domus	Empire State Building Kit	Editoriale Domus	31	Architecture	American Architecture
+Gebhard and Winter	Los Angeles An Architecture Guide	Gibbs Smith	17	Architecture	American Architecture
+Gebhard and Zimmerman	The California Architecture of Frank Lloyd Wright	Chronicle Books	31	Architecture	American Architecture
+Gournay et al	AIA Guide to the Architecture of Atlanta	University of Georgia Press	16	Architecture	American Architecture
+Hines	Architecture of the Sun Los Angeles Modernism 1900-1970	Rizzoli	12	Architecture	American Architecture
+Jodidio	Contemporary American Architects	Taschen	25	Architecture	American Architecture
+Kennedy	American Churches	Stewart Tabori & Chang	6	Architecture	American Architecture
+Larson and Pridmore	Chicago Architecture and Design	Abrams	Noguchi	Architecture	American Architecture
+LeBlanc	20th Century American Architecture A Traveler's Guide to 220 Key Buildings	Whitney	17	Architecture	American Architecture
+Longstreth	On the Edge of the World Four Architects in SF at the Turn of the Century	University of California Press	5	Architecture	American Architecture
+Macaulay	Unbuilding	HMCo	6	Architecture	American Architecture
+McDonough	Frank Lloyd Wright	Chelsea House Publishers	16	Architecture	American Architecture
+Newhouse	"Wallace K. Jarrison, Architect"	Rizzoli	6	Architecture	American Architecture
+Shelton-Roberts	North Carolina Lighthouses A Tribute of History and Hope	Our State Books	12	Architecture	American Architecture
+Sommer	Frank Lloyd Wright a Gatefold Portfolio	Barnes & Noble	6	Architecture	American Architecture
+Sommer	Frank Lloyd Wright American Architect for the 20th Century	Smithmark	31	Architecture	American Architecture
+Stern	Pride of Place	Houghton Mifflin	6	Architecture	American Architecture
+Street-Porter	The Los Angeles House Decoration and Design in America's 12th-Century City	Potter	12	Architecture	American Architecture
+Taschen	Frank Lloyd Wright	Taschen	6	Architecture	American Architecture
+Tunick	Terra-Cotta Skyline	Princeton Architectural Press	6	Architecture	American Architecture
+Turbyville	Bay Beacons Lighthouses of the Chesapeake Bay	East Wind	12	Architecture	American Architecture
+West	Frank Lloyd Wright Selected Houses 3	A.D.A. Edit Tokyo	10	Architecture	American Architecture
+Wilson	Frank Lloyd Wright on the West Coast	Gibbs Smith	31	Architecture	American Architecture
+Wiseman	I. M. Pei A Profile in American Architecture	Abrams	Noguchi	Architecture	American Architecture
+Wright	Frank Lloyd Wright The Living City	Meridian	17	Architecture	American Architecture
+Wright	"My Father, Frank Lloyd Wright"	Dover	16	Architecture	American Architecture
+Ambroziak	Michael Graves Images of a Grand Tour	Princeton Architectural Press	1	Architecture	Architectural History
+Lambert	Building Seagram	Yale	1	Architecture	Architectural History
+Brand	How Buildings Learn What happens after they're built	Viking	25	Architecture	Architecture
+Ching	Architecture: Form Space & Order	Van Nostrand Reinhold	25	Architecture	Architecture
+Field	The World's Greatest Architecture Past and Present	Grange Books	25	Architecture	Architecture
+Guggenheim	The Solomon R Guggenheim Museum	Guggenheim Museum Publications	31	Architecture	Architecture
+Polkonen (ed) et al	Eero Saarinen Shaping the Future	Yale University Press	Noguchi	Architecture	Architecture
+Stern	Modern Classicsm	Rizzoli International	19	Architecture	Architecture
+Thomson	Frank Lloyd Wright in Pop-up	PRC	25	Architecture	Architecture
+Tigerman	Chicago Tribune Tower Competition & Late Entries	Rizzoli International	31	Architecture	Architecture
+Bjone	Philip Johnson and his Mischief	images	21	Architecture	Art
+Ching	Building Construction Illustrated	Van Nostrand Reinhold	31	Architecture	Art
+Moseley	La Maison Victorienne en trois dimensions	Van der Meer	31	Architecture	Art
+Sembach	Art Nouveau	Taschen	9	Architecture	Art Nouveau
+Manaugh	A Burglar's Guide to the City	Signal	3	Architecture	Burglary
+Erickson	The Architecture of Arthur Erickson	Douglas & McIntyre	12	Architecture	Canadian
+Iglauer	"Seven Stones A Portrait of Arthur Erickson, Architect"	University of Washington Press	9	Architecture	Canadian
+Iglauer	"Seven Stones A Portrait of Arthur Erickson, Architect"	University of Washington Press	9	Architecture	Canadian
+Kalman	Exploring Vancouver	Douglas & McIntyre	37	Architecture	Canadian
+McClelland (ed) et al	Concrete Toronto	Coach House Books	17	Architecture	Canadian
+Albrecht	Designing Dreams Modern Architecture in the Movies	Harper & Row	26	Architecture	Design
+Blanciak	Siteless 1001 Building Forms	MIT Press	22	Architecture	Design
+Conran	The Soft Furnishings Book	Stoddard	16	Architecture	Design
+Di Mari	Conditional Design an Introduction to Elemental Architecture	BIS Publishers	22	Architecture	Design
+Di Mari and Yoo	Operative Design a Catalog of Spatial Verbs	BIS Publishers	22	Architecture	Design
+Erickson	Francisco Kripacz: Interior Design	Figure 1	20	Architecture	Design
+Gaventa	Concrete Design	Mitchell Beazley	16	Architecture	Design
+Goldberger	Richard Haas An Architect of Illusion	Rizzoli	12	Architecture	Design
+Klein	Cabin Porn	Little Brown	6	Architecture	Design
+Lewis et al	Manual of Section	Princeton Archtectural Press	21	Architecture	Design
+Montreal Museum of Fine Arts	Jean-Noël Desmarais Pavilion	Montreal Museum of Fine Arts	16	Architecture	Design
+Pile	Open Office Space	Facts on File	16	Architecture	Design
+Wright	Frank Lloyd Wright Decorative Designs Collection 2e	Frank Lloyd Wright Foundation	16	Architecture	Design
+Evans	Hampton Court Palace Official Guide Book	Historical Royal Palaces Agency	12	Architecture	English
+Cruickshank	The Story of Britain's Best Buildings	BBC	6	Architecture	European
+Taschen	Contemporary European Architects vol II	Taschen	6	Architecture	European
+Mayer and Gray	In the Arts & Crafts Style	Chronicle Books	6	Architecture	History
+Donzel et al	Grand Hotels of North America	McClelland and Stewart	6	Architecture	Hotels
+Walklet	The Ahwahnee Yosemite's Grand Hotel	DNC Parks	6	Architecture	Hotels
+Montreal Museum of Fine Arts	Architects for Snoopy	Montreal Museum of Fine Arts	26	Architecture	Humour
+Hill	Samurai Castles	Tuttle	21	Architecture	Japanese
+Nishi and Hozumi	What is Japanese Architecture a survey of traditional Japanese architecture	Kodansha USA	21	Architecture	Japanese
+Alphin	The Lego Architect	No Starch Press	3	Architecture	Models
+Chang	My 32 m2 apartment a 30-year transformation	MCCM Creations	10	Architecture	Modern
+Peter	The Oral History of Modern Architecture	Abrams	6	Architecture	Modern
+Chatani	Ondori Pop-up Origamic Architecture	Ondori	21	Architecture	Origami
+Harrison	Parkinson Photographs 1935-1990	Conran Octopus	12	Architecture	Photography
+Pullan	Photographing Mid-Century West Coast Modernism	Douglas & McIntyre	12	Architecture	Photography
+Robinson and Herschman	Architecture Transformed A History of the Photography of Buildings from 1839 to the Present	MIT Press	31	Architecture	Photography
+Shubert et al	Richard Henriquez Selected Works 1964 - 2005	Douglas & McIntyre	26	Architecture	Photography
+Tuchman	The Robert O. Anderson Building	Los Angeles County Museum of Art	12	Architecture	Photography
+Weinreb	London Portrait of a City	Phaidon	2	Architecture	Photography
+Jencks	Post-Modern Architecture 4e	Rizzoli	6	Architecture	Post-Modern
+Young	Saint John's Abbet Church	Minnesota	2	Architecture	Religious
+Underwood	Oscar Niemeyer and the Architecture of Brazil	Rizzoli	6	Architecture	South American
+ChuBIN	CCCP Cosmic Communist Constructions Photographed	Taschen	12	Architecture	Soviet
+Macdonald	"Cabin, cottage, & camp new designs on the Canadian landscape"	Blueimprint	10	Architecture	Vacation homes
+Choko	Posters of the Canadian Pacific	Firefly	12	Art	20th Century
+Beard	Cowboy Boots	Gibbs Smith	2	Art	American
+Schaffer	The Essential Joseph Cornell	Abrams	21	Art	American
+Smithsonian	Images of an era: the American Poster 1945-75	MIT Press	16	Art	American
+Chewning	Anatomy Illustrated	Simon & Schuster	31	Art	Anatomy
+Honnef	Andy Warhol 1928 - 1987	Taschen	26	Art	Biography
+Néret	Tamara de Lempicka 1898 - 1980	Taschen	26	Art	Biography
+Baker	Emanuel Hahn et Elizabeth Wyn Wood	Musée des Beaux-Arts du Canada	26	Art	Canadian
+Bartels (ed) et al	Brian Jungen	Vancouver Art Gallery	31	Art	Canadian
+Bruce et al	William Kurelek The Messenger	Art Gallery of Greater Victoria	12	Art	Canadian
+Carter	64 - 94 Contemporary Decades	ECIAD	2	Art	Canadian
+Mellen	Landmarks of Canadian Art	McClelland and Stewart	31	Art	Canadian
+Reid	Kreighoff Images of Canada	Douglas & McIntyre	31	Art	Canadian
+Teitelbaum et al	Colville	National Gallery of Canada	31	Art	Canadian
+Terris	Ought Apartment	Vancouver Art Gallery	26	Art	Canadian
+Elffers	Tangram the Ancient Chinese Puzzle	Harry N Abrams	5	Art	Chinese
+Film Polski	"Polish animated cartoon, puppet and experimental films 1965"	Film Polski	21	Art	Cinema
+Gustafson	Craft Perception and Practice 1	Ronsdale Press	1	Art	Craft
+Gustafson	Craft Perception and Practice 2	Ronsdale Press	1	Art	Craft
+Ward	"Shy Boy, She Devil, and Isis The Art of Conceptual Craft"	MFA	10	Art	Craft
+maintenant	maintenant 10(0) a journal of contemporary data writing & art	Three Rooms Press	37	Art	dada
+Artemide	Artemide 1994	Artemide	19	Art	Design
+Eastoe	The art of Taxidermy	Pavilion	16	Art	Design
+Julier	The Thames and Hudson Encyclopaedia of 20th Century Design and Designers	Thames & Hudson	17	Art	Design
+Sembach et al	Twentieth-Century Furniture Design	Taschen	26	Art	Design
+Gilbert (ed) et all	Treasures of Tutankhamun	National Gallery of Art	19	Art	Egyptology
+Mercier	Ethiopian Magic Scrolls	George Braziller	5	Art	Ethiopian
+Bayle	A Fuller Understanding of the Paintings at Orsay	Artlys	5	Art	Europe
+Cordaro et al	Giovanni Battista Piranesi and the Veduta of Rome and Venice in the First Half of the 18th Century	Fratelli Palombi	16	Art	European
+Poortvliet	Gnomes	Abrams	35	Art	Fantasy
+Awata (ed)	Inside Out with Gadget An art book for the new millennium	Fireside	16	Art	Fine art
+Fergonzi et al	Rodin and Michelangelo A Study in Artistic Inspiration	Philadelphia Museum of Art	17	Art	Fine art
+Smets	"The Roysl Museum of Fine Arts, Antwerp"	Ludion	17	Art	Fine art
+van Soest	The Masterpieces Guide	Rijksmuseum	19	Art	Fine art
+Herge	The Adventures of Tintin The Blue Lotus	Egmont	12	Art	Graphic Novel
+Tagame	My Brother's Husband	Pantheon	2	Art	Graphic Novel
+Tagame	My Brother's Husband V2	Pantheon	22	Art	Graphic Novel
+Brunt et al	Art in Oceania A new history	Yale University Press	20	Art	History
+Morris	Vulcan & His Times	Birmingham Historical Society	17	Art	History
+Gorey	Amphigorey	Perigee	16	Art	Illustration
+Gorey	Amphigorey Also	Harcourt Brace Jovanovich	16	Art	Illustration
+Gorey	Amphigorey Too	Perigee	16	Art	Illustration
+Hiroshige	One Hundred Famous Views of Edo	George Braziller	31	Art	Japanese
+Kyoto National Museum	Export Laquer: Reflection of the West in Black and Gold Makie	Kyoto National Museum	12	Art	Japanese
+Motohiko	Phantom Limb	Mori Art Museum	12	Art	Japanese
+Tsujimura	"Masterpieces from the Mational Museum of Modern Art, Tokyo"	"National Museum of Modern Art, Tokyo"	12	Art	Japanese
+Busuttil-César	Red	Assouline	19	Art	Modern
+Christ and Dollens	New York Nomadic Design	Rizzoli International	26	Art	Modern
+Hopkins	After Modern Art 1945 - 2000	Oxford	28	Art	Modern
+Robinson	Monet to Dali Modern Masters from the Cleveland Museum o Art	Hudson Hills Press	26	Art	Modern
+Schattschneider and Walker	M C Escher Kaleidocycles	Pomegranate Artbooks	19	Art	Modern
+Webb	The Magic of Neon	Gibbs	25	Art	Modern
+Jackson	Folding Techniques for Designers: From Sheet to Form (How to fold paper and other materials for design projects)	Laurence King Publishing	Reading	Art	Origami
+Miyawaki	Pop-Up Origame	Biken-Sha	5	Art	Origami
+Folio	The Folio Society Book of the 100 Greatest Paintings	Folio	6	Art	Painting
+Folio	The Folio Society Book of the 100 Greatest Portraits	Folio	6	Art	Painting
+Henestrosa	Martha Chapa Hacia Otro Paraiso	Alcazar	12	Art	Painting
+Adams	Ansel Adams An Autobiography	"Little, Brown and Company"	16	Art	Photography
+Becher	Water Towers	MIT Press	12	Art	Photography
+Bello	Philippe Halsman A Retrospective	Bulfinch Press	31	Art	Photography
+Carroll	Read This if you Want to Take Great Photographs	Laurence King	3	Art	Photography
+Carroll	Read This if you Want to Take Great Photographs of People	Laurence King	3	Art	Photography
+Clauden et al	In Transition Postwar Photography in Vancouver	Presentation House Galery	16	Art	Photography
+Corkin	Photographs Annie Leibovitz 1970 - 1990	Jane Corkin Gallery	31	Art	Photography
+DK	Digital Photohtaphy Complete Course	DK	37	Art	Photography
+Dosien and Nigg	The Great Balloon Festival	Free Flight Press	31	Art	Photography
+Garden	Nicholas Morant's Canada	Footprint	31	Art	Photography
+Getty	The Seven Ages of Man	Getty	25	Art	Photography
+Hamm	Dead Tech A Guide to the Archeology of Tomorrow	Sierra Club Books	12	Art	Photography
+Harrison	Appearances Fashion Photography since 1945	Jonathan Cape	25	Art	Photography
+Haworth-Booth (ed)	The Golden Age of British Photography 1839 - 1900	Aperture	25	Art	Photography
+Leibovitz	Photographs Annie Leibovitz 1970 - 1990	Harper Collins	31	Art	Photography
+Maloof	Vivian Maier Street Photographer	Powerhouse Books	12	Art	Photography
+Meltzer	Photographing Your Craftwork A Hands-On Guide for Craftspeople	Madrona	26	Art	Photography
+Peltason (ed)	Ernst Haas Color Photography	Abrams	25	Art	Photography
+Revell	Canon EOS 7D Mark II From Snapshots to Great Shots	Peachpit Press	3	Art	Photography
+Spira	The History of Photography As Seen Through The Spira Collection	Aperture	12	Art	Photography
+Wendt	Lionel Wendt's Ceylon	Navrang	6	Art	Photography
+William Collins	A Day in the Life of the Soviet Union	William Collins	31	Art	Photography
+Wilson	Pop 64 pages in color	Monarch	2	Art	Pop
+Crow	Nancy Crow	Breckling Press	Noguchi	Art	Quilting
+Cowley	Spacecraft 2000 to 2100 AD	Chartwell	26	Art	SF
+Stålenhag	Tales From the Loop	Skybound	Reading	Art	SF
+Miller	"The Art of Space: The History of Space Art, from the Earliest Versions to the Graphics of the Modern Era"	Zenith	9	Art	Space Art
+Draper	Stitch and Structure Design and Technique in 2- and 3-D textiles	Batsford	34	Art	Textiles
+Small	Layered Cloth The Art of Fabric Manipulation	Search Press	34	Art	Textiles
+Wellesley-Smith	Slow stitch mindful and contemplative textile art	Batsford	6	Art	Textiles
+Izenour	Theater Design	McGraw Hill	25	Art	Theatre
+Mielziner	The Shapes of Our Theatre	Clarkson N Potter	16	Art	Theatre
+Perry	The Complete Phantom of the Opera	Henry Holt and Company	26	Art	Theatre
+Elsen	Purposes of Art 4e	"Holt, Rinehard and Winston of Canada"	16	Art	Theory
+MuHKA / Belkin	Intertidal Vancouver Art and Artists	MuHKA / Belkin	28	Art	Vancouver
+O'Brian (ed)	Vancouver Art & Economies	Arsenal Pulp Press / Artspeak	28	Art	Vancouver
+Presentation House	Unfinished Business Photographing Vancouver Streets 1955 - 1985	west coast line 47	28	Art	Vancouver
+DeBrunhoff	Babar's Museum of Art	Abrams	6	Art	Whimsical
+Hepburn	Me Stories of My Life	Alfred A Knopf	19	Biography	Autobiography
+HingJian	Soul Mountain	Perennial	17	Biography	Autobiography
+Isaacson	Leonardo da Vinci	Simon & Schuster	21	Biography	Biography
+Prud'homme	Julia Child My Life in France	Anchor	10	Biography	Biography
+Pearson	The Private Lives of Winston Churchill	Viking	28	Biography	Political
+Vance	"Elon Musk Tesla, Space X, and the Quest for a Fantastic Future"	Ecco	3	Biography	Scions of America
+Darley	John Soane An Accidental Romantic	Yale	5	Biography	Scions of Science and Reason
+Suzuki	David Suzuki The Autobiography	Greystone	5	Biography	Scions of Science and Reason
+Marzluff	In The Company of Crows and Ravens	Yale	5	Biology	Ornithology
+Young	What the Robin Knows	Mariner	Island	Biology	Ornithology
+Cox et al	The Sinmon & Schuster Encyclopedia of Dinosaurs & Prehistoric Creatures	Simon & Schuster	25	Biology	Zoology
+McAllister	The Last Wild Wolves Ghosts of the Great Bear Rainforest	Greystone	31	Biology	Zoology
+Schafer	Penguin Planet	NorthWord Press	25	Biology	Zoology
+Whitfield	The Simon & Schuster Encyclopedia of Animals	Simon & Schuster	25	Biology	Zoology
+Trojanowska (ed) et al	New Perspectives on Polish Culture	PIASA Books	28	Civilization	Polish
+Newman	Speaking in Cod Tongues: A Canadian Culinary Journey	University of Regina Press	35	Cooking	Canadian
+Aiga	Graphic Design US 9 The Annual of the American Institute of Graphic Arts	Watson Guptill	6	Design	Graphic Design
+Baker	Great inventions good intentions	Chronicle Books	26	Design	History
+"Lee, Kai-Fu"	"AI Superpowers. China, Silicon Valley, and the New World Order"	Houghton Mifflin Harcourt	37	Economics	Artificial Intelligence
+Lipsey et al	Economics 4e	Harper & Row	38	Economics	Economics
+Dornbusch et al	Macroeconomics 4e	McGraw Hill	38	Economics	Macroeconomics
+Frank	Microeconomics and behaviour 2e	McGraw Hill	38	Economics	Microeconomics
+McPherson and Timms	The Audio-Visual Handbook	Watson-Guptill Publications	19	Engineering	Audio-visual
+De la Rosa and Kolin	"Understanding, Maintaining, and Riding the Ten-Speed Bicycle"	Rosale Press	16	Engineering	Bicycle repair
+Henderson	The Haynes Bicycle Book	Haynes Publishing	19	Engineering	Bicycle repair
+Coker	Roller Coaster A Thrill Seeker's Guide to the Ultimate Scream Machines	Barnes & Noble	31	Engineering	Engineering
+French and Vierck	Engineering Drawing & Graphing Technology 12e	McGraw Hill	26	Engineering	Engineering
+Koff	How Does it Work?	Bonanza	16	Engineering	Engineering
+National Geographic	The Builders Marvels of Engineering	National Geographic Society	6	Engineering	Engineering
+Le carré	The Russia House	Penguin	18	Fiction	Action
+Allen	Without feathers	Warner Books	29	Fiction	American
+Greene	The Power and the Glory	Penguin	13	Fiction	American
+Irving	The World According to Garp	Dutton	18	Fiction	American
+Kidder	The Soul of a New Machine	Avon	18	Fiction	American
+Ko	The Leavers	Algonquin Books of Chapel Hill	Reading	Fiction	American
+McInerney	Story of my life	McClelland and Stewart	18	Fiction	American
+Tyler	The Accidental Tourist	Penguin	10	Fiction	American
+Ondaatje	Anil's Ghost	Vintage	2	Fiction	Canadian
+Taylor	Stanley Park	Vintage	18	Fiction	Canadian
+Coupland	Generation X	St Martin's Press	Island	Fiction	Canadian
+Gorey	The Gashleycrumb Tinies	Harcourt Brace & Co	18	Fiction	Cartoon
+Barrie	Peter Pan	Grosset and Dunlap	19	Fiction	Children
+Fletcher et al	Walt Disney's Treasury 21 Best-Loved Stores	Golden Press	31	Fiction	Children
+Hoff	Sammy the Seal	Harper & Row	14	Fiction	Children
+Townsend	The Growing Pains of Adrian Mole	Metheun	2	Fiction	Children
+Townsend	The Secret Diary of Adrian Mole aged 13 3/4	Metheun	2	Fiction	Children
+Gibson	Burning Chrome	Ace	18	Fiction	Cyberpunk
+Gibson	Neuromancer	Ace	30	Fiction	Cyberpunk
+Gibson	Neuromancer	Ace	30	Fiction	Cyberpunk
+Gibson	Pattern Recognition	Putnam	2	Fiction	Cyberpunk
+Auel	The Clan of the Cave Bear	Bantam	14	Fiction	English
+Auel	The Valley of Horses	Bantam	14	Fiction	English
+Brown	Angels and Demons	Pocket	5	Fiction	English
+Brown	The DaVinci Code	Anchor	14	Fiction	English
+Crowley	"Little, Big"	Bantam	17	Fiction	English
+Wyndham	Chocky	Penguin	14	Fiction	English
+Cooper	Greenwith	Macmillan	14	Fiction	Fantasy
+Cooper	Silver on the Tree	Macmillan	14	Fiction	Fantasy
+Cooper	The Dark is Rising	Macmillan	14	Fiction	Fantasy
+Cooper	The Grey King	Macmillan	14	Fiction	Fantasy
+Eddings	Belgarath the Sorcerer		34	Fiction	Fantasy
+Eddings	Castle of Wizardry		34	Fiction	Fantasy
+Eddings	Demon Lord of Karanda		34	Fiction	Fantasy
+Eddings	Enchanter's End Game		34	Fiction	Fantasy
+Eddings	Guardians of the West		34	Fiction	Fantasy
+Eddings	King of the Murgos		34	Fiction	Fantasy
+Eddings	Magician's Gambit		34	Fiction	Fantasy
+Eddings	Pawn of Prophecy		34	Fiction	Fantasy
+Eddings	Queen of Sorcery		34	Fiction	Fantasy
+Eddings	The Seeress of Kell		34	Fiction	Fantasy
+Eddings	The Sorceress of Darshiva		34	Fiction	Fantasy
+Graham	Black Ships	Orbit	13	Fiction	Fantasy
+Hardy	Secret of the Sixth Magic	Del Rey	14	Fiction	Fantasy
+Martin	A Clash of Kings (2)	Bantam	36	Fiction	Fantasy
+Martin	A Dance with Dragons	Bantam	35	Fiction	Fantasy
+Martin	A Feast for Crows (4)	Bantam	36	Fiction	Fantasy
+Martin	A Game of Thrones (1)	Bantam	10	Fiction	Fantasy
+Martin	A Storm of Swords (3)	Bantam	36	Fiction	Fantasy
+Melling	The Druid's Tune	Puffin	30	Fiction	Fantasy
+Rawn	Dragon Prince	Daw	11	Fiction	Fantasy
+Rice	Interview with the Vampire	Ballantine	13	Fiction	Fantasy
+Rice	Memnoch the Devil	Ballantine	13	Fiction	Fantasy
+Rice	The Mummy or Ramses the Damned	Ballantine	13	Fiction	Fantasy
+Rice	The Queen of the Damned	Ballantine	13	Fiction	Fantasy
+Rice	The Tale of the Body Thief	Ballantine	13	Fiction	Fantasy
+Rice	The Vampire Lestat	Ballantine	13	Fiction	Fantasy
+Weis and Hickman	Dragon Wing		34	Fiction	Fantasy
+Weis and Hickman	Dragonlance The Annotated Chronicles	TSR	24	Fiction	Fantasy
+Weis and Hickman	Elven Star		34	Fiction	Fantasy
+Weis and Hickman	Fire Sea		34	Fiction	Fantasy
+Weis and Hickman	Into the Labyrinth		34	Fiction	Fantasy
+Weis and Hickman	Serpent Mage		34	Fiction	Fantasy
+Weis and Hickman	The Darksword Trilogy Volume 1 Forging the Darksword	Bantam	30	Fiction	Fantasy
+Weis and Hickman	The Darksword Trilogy Volume 2 Doom of the Darksword	Bantam	30	Fiction	Fantasy
+Weis and Hickman	The Darksword Trilogy Volume 3 Triumph of the Darksword	Bantam	30	Fiction	Fantasy
+Weis and Hickman	The Hand of Chaos		34	Fiction	Fantasy
+Weis and Hickman	The Seventh Gate		34	Fiction	Fantasy
+Wrede	The Enchanted Forest Chronicles	SFBC	30	Fiction	Fantasy
+Zimmer Bradley	Thunderlord	Daw	3	Fiction	Fantasy
+Auel	The Land of Painted Caves	Bantam	35	Fiction	Historical
+Auel	The Mammoth Hunters	Bantam	18	Fiction	Historical
+Auel	The Plains of Passage	Bantam	18	Fiction	Historical
+Michener	Poland	Fawcett Crest	2	Fiction	Historical
+Plato	The Siege of Fort Erie 1814 The Destroyer	E N Plato Historical Publishing	16	Fiction	Historical
+King and Straub	The Talisman	Viking	19	Fiction	Horror
+Herriot	If Only They Could Talk	Pan	2	Fiction	Humour
+Herriot	It Shouldn't Happen to a Vet Copy 1	Pan	2	Fiction	Humour
+Herriot	It Shouldn't Happen to a Vet Copy 2	Pan	2	Fiction	Humour
+Pyle	Strange Planet	Morrow Gift	Island	Fiction	Humour
+Pyle	Stranger Planet	Morrow Gift	Island	Fiction	Humour
+Cantor	Krazy Kat	Collier Fiction	18	Fiction	Popular
+Carr	The Alienist	Random House	Island	Fiction	Popular
+Carr	The Angel of Darkness	Random House	28	Fiction	Popular
+Le Carré	Our Game	Knopf	36	Fiction	Popular
+Abramson	Galaxy Science Fiction Magazine July 1976	Abramson	18	Fiction	SF
+Abramson	Galaxy Science Fiction Magazine Number 12	Abramson	18	Fiction	SF
+Abramson	Galaxy Science Fiction Magazine Number 6	Abramson	18	Fiction	SF
+Adams	Dirk Gently's Holistic Detective Agency	Pan	19	Fiction	SF
+Adams	The Restaurant at the End of the Universe	Pan	19	Fiction	SF
+Allen	Asimov's Inferno		38	Fiction	SF
+Allen	Asimov's Utopia		38	Fiction	SF
+Allen	Isaac Asimov's Caliban	Ace	38	Fiction	SF
+Anderson	Starfarers	Tor	24	Fiction	SF
+Anderson	Twilight World	Tor	11	Fiction	SF
+Asimov	Forward the Foundation		38	Fiction	SF
+Asimov	Foundation		38	Fiction	SF
+Asimov	Foundation and Earth		38	Fiction	SF
+Asimov	Foundation and Empire		38	Fiction	SF
+Asimov	Foundation's Edge		38	Fiction	SF
+Asimov	Foundation's Edge		38	Fiction	SF
+Asimov	"I, Robot"		38	Fiction	SF
+Asimov	Pebble in the Sky		38	Fiction	SF
+Asimov	Prelude to Foundation		38	Fiction	SF
+Asimov	Robot Visions		38	Fiction	SF
+Asimov	Robots and Empire		38	Fiction	SF
+Asimov	Second Foundation		38	Fiction	SF
+Asimov	The Caves of Steel		38	Fiction	SF
+Asimov	The Caves of Steel		38	Fiction	SF
+Asimov	The Currents of Space		38	Fiction	SF
+Asimov	The Gods Themselves		38	Fiction	SF
+Asimov	The Naked Sun		38	Fiction	SF
+Asimov	The Rest of the Robots		38	Fiction	SF
+Asimov	The Robots of Dawn		38	Fiction	SF
+Asimov	The Robots of Dawn		38	Fiction	SF
+Asimov	"The Stars, Like Dust"		38	Fiction	SF
+Asimov (ed) et al	Isaac Asimov Presents The Greatest SF Stories 13 (1951)	Daw	13	Fiction	SF
+Asimov (ed) et al	Starships Stories Beyond the Boundaries of the Universe	Fawcett	13	Fiction	SF
+Avon	The Science Fiction Hall of Fame Volume I	Avon	11	Fiction	SF
+Avon	The Science Fiction Hall of Fame Volume Iia	Avon	11	Fiction	SF
+Avon	The Science Fiction Hall of Fame Volume Iib	Avon	11	Fiction	SF
+Barker	Imajica	Perennial	37	Fiction	SF
+Bear	Darwin's Children	Del Rey	Island	Fiction	SF
+Bear	Eon	Tor	15	Fiction	SF
+Bear	Eternity	Aspect	14	Fiction	SF
+Bear	Foundation and Chaos		38	Fiction	SF
+Beattlie	Distortions	Warner Books	14	Fiction	SF
+Benford	Deeper Than Darkness	Ace	14	Fiction	SF
+Benford	Foundation's Fear		38	Fiction	SF
+Biggle	Monument	Bantam	14	Fiction	SF
+Blish	Anywhen	Avon	14	Fiction	SF
+Blish	Cities in Flight	Avon	14	Fiction	SF
+Bonanno	Star Trek Strangers from the Sky	Pocket Books	30	Fiction	SF
+Bova	Apes and angels	Tor	36	Fiction	SF
+Bova and Pogue	The Trikon Deception	Tor	14	Fiction	SF
+Brin	Brightness Reef		33	Fiction	SF
+Brin	Earth		38	Fiction	SF
+Brin	Earthclan (Startide Rising and The Uplift War)		33	Fiction	SF
+Brin	Foundation's Triumph		38	Fiction	SF
+Brin	Heaven's Reach		33	Fiction	SF
+Brin	Infinity's Shore		33	Fiction	SF
+Brin	Sundiver		33	Fiction	SF
+Brooks	World War Z	Broadway	13	Fiction	SF
+Brown	Cosmopath	Solaris	19	Fiction	SF
+Brown	Helix	Solaris	15	Fiction	SF
+Brown	Kethani	Solaris	14	Fiction	SF
+Brown	Necropath	Solaris	19	Fiction	SF
+Brown	Xenopath	Solaris	14	Fiction	SF
+Brunner	Manshape	Daw	18	Fiction	SF
+Brunner	The Crucible of Time	Del Rey	18	Fiction	SF
+Campbell	Islands of Space	Ace	15	Fiction	SF
+Campbell	The Black Star Passes	Cosmos	15	Fiction	SF
+Card	Ender's Gae	Tor	15	Fiction	SF
+Carr	Killing Time	Warner Books	13	Fiction	SF
+Chalker	Quest for the Well of Souls	Del Rey	15	Fiction	SF
+Chalker	The Return of Nathan Brazil Volume 4 of the Saga of the Well World	Del Rey	15	Fiction	SF
+Chalker	Twilight at the Well of Souls The Legacy of Nathan Brazil V5 of the Saga of the Well World	Del Rey	18	Fiction	SF
+Clarke	2001 A Sapce Odyssey	Signet	15	Fiction	SF
+Clarke	2010: Odyssey Two	Del Rey	15	Fiction	SF
+Clarke	2061: Odyssey Three	Del Rey	15	Fiction	SF
+Clarke	Against the Fall of Night	Berkley	14	Fiction	SF
+Clarke	Childhood's End	Ballantine	14	Fiction	SF
+Clarke	Ghost from the Grand Banks	Bantam	14	Fiction	SF
+Clarke	Prelude to Space	Del Rey	14	Fiction	SF
+Clarke	Rendezvous with Rama	Del Rey	19	Fiction	SF
+Clarke	Tales of Ten Worlds	Signet	14	Fiction	SF
+Clarke	The Best of Arthur C Clarke 1937-1955	Sphere	14	Fiction	SF
+Clarke and Baxter	The Light of Other Days	Tor	14	Fiction	SF
+Clarke and Lee	Garden of Rama Sequel to Rama II	Bantam	15	Fiction	SF
+Clarke and Lee	Rama II The Sequelk to Rendezvois with Rama	Bantam	15	Fiction	SF
+COBLEY	Seeds of Earth Book 1 of Humanity's Fire	Orbit	2	Fiction	SF
+Cobley	The Ascendant Stars Book Three of Humanity's Fire	Orbit	3	Fiction	SF
+Cobley	The Orphaned Worlds Book 2 of Humanity's Fire	Orbit	2	Fiction	SF
+Crichton	Jurassic Park	Knopf	Island	Fiction	SF
+Crichton	Sphere	Ballantine	14	Fiction	SF
+Dantz	Nine Levels Down	Forge	14	Fiction	SF
+Del Rey	The Mysterious Planet	Ballantine	14	Fiction	SF
+Delany	Dhalgren	Bantam	14	Fiction	SF
+Delany	Stars in my Pocket Like Grains of Sand	Bantam	14	Fiction	SF
+Dick	The Main in the High Castle	Berkley	14	Fiction	SF
+Dillard	Star Trek First Contact	Pocket Books	24	Fiction	SF
+Doctorow	Down and Out in the Magic Kingdom: A Novel	Tor	35	Fiction	SF
+Doctorow	Radicalized	Tor	35	Fiction	SF
+Dozois (ed)	One Million AD	SFBC	24	Fiction	SF
+Eco	Foucault's Pendulum	Ballantine	2	Fiction	SF
+Elwood (ed)	Visions of Tomorrow An Interstellar Collection	Pocket	13	Fiction	SF
+Emshwiller	The Host	Spectra	24	Fiction	SF
+Gaiman	Neverwhere	Avon	5	Fiction	SF
+Gerritsen	Gravity	Pocket	13	Fiction	SF
+Gibson	Virtual Light	Seal	13	Fiction	SF
+Greenberg	Foundation's Friends		38	Fiction	SF
+Griffiths	The Memory Man	Playboy Paperbacks	13	Fiction	SF
+Haldeman	The Forever War	Ballantine	13	Fiction	SF
+Heinlein	Future History Stories Complete in One Volume The Past Throug Tomorrow	Berkley Medallion	18	Fiction	SF
+Heinlein	The Cat Who Walks Through Walls	Ace	15	Fiction	SF
+Heinlein	The Moon is a Harsh Mistress	Ace	13	Fiction	SF
+Heinlein	The Number of the Beast	Fawcett	15	Fiction	SF
+Heinlein	The Unpleasant Profession of Jonathan Hoag	Ace	13	Fiction	SF
+Heinlein	To Sail Beyond the Sunset	Ace	13	Fiction	SF
+Herbert	Chapterhouse Dune		33	Fiction	SF
+Herbert	Children of Dune		33	Fiction	SF
+Herbert	Destination Void	Berkley	13	Fiction	SF
+Herbert	Dune		33	Fiction	SF
+Herbert	Dune Messiah and Children of Dune		33	Fiction	SF
+Herbert	God Emperor of Dune		33	Fiction	SF
+Herbert	God Emperor of Dune		33	Fiction	SF
+Herbert	Heretics of Dune		33	Fiction	SF
+Herbert and Anderson	House Atreides		33	Fiction	SF
+Herbert and Anderson	House Corrino		33	Fiction	SF
+Herbert and Anderson	House Harkonnen		33	Fiction	SF
+Herbert and Anderson	Hunters of Dune		33	Fiction	SF
+Herbert and Anderson	Sandworms of Dune		33	Fiction	SF
+Herbert and Anderson	The Battle of Corrin		33	Fiction	SF
+Herbert and Ransom	The Lazarus Effect The Sequel to The Jesus Incident	Berkley	13	Fiction	SF
+Hogan	Giants' Star	Ballantine	13	Fiction	SF
+Hogan	The Genesis Machine	Del Rey	13	Fiction	SF
+Hogan	The Gentle Giants of Ganymede	Del Rey	13	Fiction	SF
+Hogan	The Immortality Option sequel to Code of the Lifemaker	Del Rey	18	Fiction	SF
+Hogan	The Proteus Operation	Bantam	18	Fiction	SF
+Hogan	Voyage from Yesteryear	Del Rey	18	Fiction	SF
+Hoyle and Elliot	Andromeda Breakthrough	Corgi	13	Fiction	SF
+James	The Children of Men	Penguin	18	Fiction	SF
+Jeter	Star Wars the Mandalorian Armor	Spectra	30	Fiction	SF
+Kube-McDowell	Star Wars The Black Fleet Crisis	GuildAmerican Books	24	Fiction	SF
+Leckie	Ancillary Justice	Orbis	37	Fiction	SF
+Leckie	Ancillary Mercy	Orbis	37	Fiction	SF
+Leckie	Ancillary Sword	Orbis	37	Fiction	SF
+Leguin	City of Illusions	Ace	15	Fiction	SF
+Leguin	Planet of Exile	Ace	15	Fiction	SF
+Leguin	Rocannon's World	Ace	15	Fiction	SF
+Leguin	The Dispossessed	Avon	15	Fiction	SF
+Leguin	The Farthest Shore Earthsea Trilogy 3	Bantam	15	Fiction	SF
+Leguin	The Language of the Night Essays on Fantasy and Science Fiction	Berkley Science Fiction	15	Fiction	SF
+Leguin	The Left Hand of Darkness	Ace	15	Fiction	SF
+Leguin	The Tombs of Atuan	Bantam	10	Fiction	SF
+Leguin	The Wind's Twelve Quarters	Bantam	15	Fiction	SF
+Leguin (ed)	Edges Thirteen New Tales from the Borderlands of the Imagination	Pocket	15	Fiction	SF
+Leigh	The Crystal Memory	Avon	13	Fiction	SF
+Leinster	Time Tunnel	Pyramid	13	Fiction	SF
+Lem	Solaris	Harcourt	2	Fiction	SF
+Macleod	Cosmonaut Keep	Tor	13	Fiction	SF
+Macleod	Dark Light	Tor	10	Fiction	SF
+Martin (ed)	New Voices 4 The John W Campbell Award Nominees	Berkley	13	Fiction	SF
+Mather	Cyberstorm	Harper Collins	1	Fiction	SF
+McCaffrey	Dinosaur Planet		38	Fiction	SF
+McCaffrey	Dragonquest	Del Rey	24	Fiction	SF
+McCaffrey	Dragonsdawn	Del Rey	24	Fiction	SF
+McCaffrey	The Rowan	Ace / Putnam	24	Fiction	SF
+McCaffrey	The White Dragon	Del Rey	24	Fiction	SF
+Michener	Space	Fawcett Crest	10	Fiction	SF
+Monteleone	Guardian	Fawcett	13	Fiction	SF
+Niven	A Hole in Space	Del Rey	11	Fiction	SF
+Niven	Lucifer's Hammer	Fawcett Crest	11	Fiction	SF
+Niven	Playgrounds of the Mind	Tor	11	Fiction	SF
+Niven	Protector	Del Rey	11	Fiction	SF
+Niven	Ringworld	Del Rey	11	Fiction	SF
+Niven	Ringworld copy 2	Del Rey	11	Fiction	SF
+Niven	The Integral Trees	Del Rey	11	Fiction	SF
+Niven	The Mote in God's Eye	Pocket	11	Fiction	SF
+Niven	The Ringworld Engineers	Del Rey	11	Fiction	SF
+Norton	Postmarked the Stars	Ace	11	Fiction	SF
+Norton	The Sioux Spaceman	Ace	11	Fiction	SF
+Norton	The X Factor	Ace	11	Fiction	SF
+Norton	Victory on Janus	Ace	11	Fiction	SF
+Orwell	Nineteen Eighty Four	Folio	14	Fiction	SF
+Orwell	Nineteen Eighty-Four	Penguin	11	Fiction	SF
+Panshin	Rite of Passage	Ace	11	Fiction	SF
+Pohl	Jem	Bantam	11	Fiction	SF
+Pohl	Manplus	Bantam	11	Fiction	SF
+Pohl (ed)	Nebula Winners 14	Bantam	13	Fiction	SF
+Ross and Zimmer Bradley	A Flame in Hali		32	Fiction	SF
+Ross and Zimmer Bradley	Hastur Lord		32	Fiction	SF
+Ross and Zimmer Bradley	The Alton Gift		32	Fiction	SF
+Ross and Zimmer Bradley	The Fall of Neskaya		32	Fiction	SF
+Ross and Zimmer Bradley	Zandru's Forge		33	Fiction	SF
+Saberhagen	The Berkserker Throne	Tor	10	Fiction	SF
+Sawyer	Calculating God	Tor	10	Fiction	SF
+Sawyer	The Terminal Experiment	Harper Prism	10	Fiction	SF
+Silverberg	At Winter's End	Warner Books	18	Fiction	SF
+Silvrberg	The New Springtime	Warner Books	18	Fiction	SF
+Smith	Galactic Patrol	Berkley	10	Fiction	SF
+Vardeman	Echoes of Chaos	Berkley	10	Fiction	SF
+Varley	Millennium	Berkley Science Fiction	19	Fiction	SF
+Varley	Titan	Berkley Books	18	Fiction	SF
+Varley	Wizard	Berkley Books	18	Fiction	SF
+Verne	Twnety Thousand Leagues Under the Sea	Pocket Books	19	Fiction	SF
+Wells	The First Men in the Moon	Fontana	5	Fiction	SF
+Wells	The Time Machine	Bantam	5	Fiction	SF
+Wells	The War of the Worlds	Signet	13	Fiction	SF
+Wolfe	Epiphany of the Long Sun Part 2 of the Book of the Long Sun	Orb	9	Fiction	SF
+Wolfe	In Green's Jungles Part 2 of the Book of the Short Suyn	TOR	9	Fiction	SF
+Wolfe	Litarny of the Long Sun Part 1 of the Book of the Long Sun	Orb	9	Fiction	SF
+Wolfe	On Blue's Waters	Tor	10	Fiction	SF
+Wolfe	Return to the Whorl	Tor	10	Fiction	SF
+Wolfe	The Book of the New Sun	SFBC	9	Fiction	SF
+Wolfe	The Urth of the New Sun Sequel to the Book of the New Sun	Orb	9	Fiction	SF
+Wyndham	The Chrysalids	Penguin	14	Fiction	SF
+Wyndham	The Day of the Triffids	Fawcett	14	Fiction	SF
+Zelazny	Lord of Light	Avon	13	Fiction	SF
+Zimmer Bradley	A World Divided		32	Fiction	SF
+Zimmer Bradley	Ancestors of Avalon		32	Fiction	SF
+Zimmer Bradley	City of Sorcery		32	Fiction	SF
+Zimmer Bradley	Darkover		33	Fiction	SF
+Zimmer Bradley	Darkover Landfall		33	Fiction	SF
+Zimmer Bradley	Domains of Darkover		32	Fiction	SF
+Zimmer Bradley	Exile's Song		32	Fiction	SF
+Zimmer Bradley	Four Moons of Darkover		32	Fiction	SF
+Zimmer Bradley	Free Amazons of Darkover		32	Fiction	SF
+Zimmer Bradley	Hawkmistress		33	Fiction	SF
+Zimmer Bradley	Heritage and Exile		32	Fiction	SF
+Zimmer Bradley	Lady of Avalon		32	Fiction	SF
+Zimmer Bradley	Leroni of Darkover		33	Fiction	SF
+Zimmer Bradley	Red Sun of Darkover		32	Fiction	SF
+Zimmer Bradley	Rediscovery		32	Fiction	SF
+Zimmer Bradley	Stormqueen		32	Fiction	SF
+Zimmer Bradley	The Fall of Atlantis		33	Fiction	SF
+Zimmer Bradley	The Forbidden Tower		32	Fiction	SF
+Zimmer Bradley	The Hiers of Hammerfell		32	Fiction	SF
+Zimmer Bradley	The Keeper's Price		33	Fiction	SF
+Zimmer Bradley	The Other Side of the Mirror		32	Fiction	SF
+Zimmer Bradley	The Saga of the Renunciates		32	Fiction	SF
+Zimmer Bradley	The Shadow Matrix		32	Fiction	SF
+Zimmer Bradley	The Spell Sword		32	Fiction	SF
+Zimmer Bradley	To Save a World		32	Fiction	SF
+Zimmer Bradley	Towers of Darkover		33	Fiction	SF
+Zimmer Bradley	Traitor's Song		32	Fiction	SF
+Zimmer Bradley	Two to Conquer		32	Fiction	SF
+Asimov and Silverberg	Nightfall	Doubleday	24	Fiction	SF (American)
+Clarke	3001 The Final Odyssey	Del Rey	24	Fiction	SF (American)
+Silverberg	The World Inside	Doubleday	24	Fiction	SF (American)
+Atwood	Oryx and Crake	Seal	24	Fiction	SF (Canadian)
+Atwood	The Year of the Flood	Vintage	18	Fiction	SF (Canadian)
+Czerneda	Migration Species Imperative #2	DAW	24	Fiction	SF (Canadian)
+Czerneda	Regeneration Species Imperative #3	DAW	24	Fiction	SF (Canadian)
+Czerneda	Survival Species Imperative #1	DAW	24	Fiction	SF (Canadian)
+Liu	Ball Lightning	Tor	37	Fiction	SF (Chinese)
+Liu	Death's End	Tor	36	Fiction	SF (Chinese)
+Liu	Supernova Era	Tor	36	Fiction	SF (Chinese)
+Liu	The Dark Forest	Tor	36	Fiction	SF (Chinese)
+Liu	The Three-Body Problem	Tor	36	Fiction	SF (Chinese)
+Liu	The Wandering Earth	Head of Zeus	Gaby	Fiction	SF (Chinese)
+Carter	Swarm	Brindle & Glass	7	Fiction	Speculative
+Silverberg	Roma Eterna	Eos	10	Fiction	Speculative
+Disch	The Priest	Orion	14	Fiction	Thriller
+Preston	Reliquary	Tor	11	Fiction	Thriller
+Preston	Riptide	Warner	11	Fiction	Thriller
+Matteoli	Escape Hotel Stories	Assouline	12	Fiction	Travel
+Nguyen	The Sympathizer	Grover Press	20	Fiction	Vietnamese
+Collins	The Art of the Cocktail 100 Classic Cocktail Recipes	Chronicle Books	8	Food	Alcohol
+Lewis	The Beverly Lewis Amish Heritage Cookbook	Bethany House Publishers	9	Food	Amish
+MURDOCH	Chinese & Asian Step-by-step	Murdoch	8	Food	Asian
+K	Caribbean Cuisine	Centax Books	9	Food	Caribbean
+Clark	Casseroles and other delicious one-pot wonders	Australian Women' Weekly	8	Food	Casseroles
+Weber	Best-loved Casseroles	Publications International	8	Food	Casseroles
+Favourite Recipes	Great Tasting Chicken Recipes	Publications International	8	Food	Chicken
+Time Life Books	Recipes: Chinese Cooking	Time Life Books	9	Food	Chinese
+Ojakangas	Pot Pies	Clarkson Potter	11	Food	Cookbook
+Cherkasky	The Artful Pie	Chapters	8	Food	Dessert
+Berry	Popular French Cookery	Dolphin Press	8	Food	French
+Ackart	The One-Dish Cookbook	Grosset & Dunlap	8	Food	General Cookbook
+Crocker	Betty Crocker's New Dinner for Two Cookbook	Golden Press	8	Food	General Cookbook
+Dwillies	The Western Living Cookbook	Whitecap	8	Food	General Cookbook
+Feniger	City cuisine	William Morrow and Co	8	Food	General Cookbook
+Gilletz	The Food Processor Bible	Whitecap	8	Food	General Cookbook
+Kostick	The $10 Gourmet	Whitecap	8	Food	General Cookbook
+Martin	Easy Cooking For Today	Brimar	8	Food	General Cookbook
+Rombauer	The Joy of Cooking	Bobbs-Merrill	8	Food	General Cookbook
+Rombauer et al	Joy of cooking	Scribner	9	Food	General Cookbook
+Rosengarten et al	The Dean & Deluca Cookbook	Random House	9	Food	General Cookbook
+Turgeon	The Encyclopedia of Creative Cooking	New World Marketing	8	Food	General Cookbook
+Weber	Light Cooking	Publications International	8	Food	General Cookbook
+MacMillan	German Cooking	Cavendish House	9	Food	German
+Lukins	All Around The World Cookbook	Workman Publishing	8	Food	International
+Mount Salus Prss	250 Irish Recipes Traditional and Modern	Mount Salus Press	9	Food	Irish
+Abramowitz	Knishes & Know-how: Jewish cooking for everyone	"Holt, Rinehard and Winston of Canada"	9	Food	Jewish
+Calder	Welcome to Microwave Cooking	Centax	8	Food	Microwave
+Knox	Better Homes and Gardens Step by Step Microwave Cookbook	Meredith	8	Food	Microwave
+Toshiba	Successful Microwaving with Toshiba	Toshiba	8	Food	Microwave
+Ferguson	Polish Cooking	Crescent Books	8	Food	Polish
+Clark	Potato Cookbook	Australian Women' Weekly	8	Food	Potatoes
+Bernardin	Bernardin Guide to Home Preserving	Bernardin	8	Food	Preserves
+Walden	Perfect Preserves	Thomas Allen	8	Food	Preserves
+Hoffman	Healthy Crockery Cookery	HPBooks	8	Food	Slow cooking
+Clark	Easy Thay-style cookery	Australian Women' Weekly	8	Food	Thai
+Ensrud	The Pocket Guide to Wine	Prentice Hall	8	Food	Wine
+Crawford et al	D&D Dungeon Master's Guide	Wizards of the Coast	16	Games	Fantasy
+Crawford et al	D&D Player's Handbook	Wizards of the Coast	16	Games	Fantasy
+Perkins et al	D&D Monster Manual	Wizards of the Coast	16	Games	Fantasy
+Witmer et al	Art & Arcana A Visual History	Ten Speed Press	18	Games	Fantasy
+Tucker	FF Dot. -The Pixel Art of FINAL FANTASY-	Square Enix Co	35	Games	Graphics
+Barton	Dungeons and Desktops the History of Computer Role-Playing Games	A K Peters	4	Games	History
+Bryceland	103 Hikes in Southwestern British Columbia	Greystone	3	Geography	Canadian
+Downs (ed)	Incredible Rogers Pass	Heritage House Publishing	16	Geography	Canadian
+Patton and Robinson	50 Walks and Hikes in Banff National Park	Summerthought	15	Geography	Canadian
+Pole	Classic Hikes in the Canadian Rockies	Mountain Vision Publishing	5	Geography	Canadian
+Fung	The Obesity Code	Greystone	Reading	Health	Nutrition
+Gidwold and Morgan	Basic Training  Fundamental Guide to Fitness for Men	St Martin's Press	19	Health	Working out
+Hix	Working Out The Shape-up Guide for Men	Simon & Schuster	19	Health	Working out
+Tise	Hidden Imags Discovering Details in the Wright Brothers' Kitty Hawk Photographs 1900-1911	Charleston London Press	26	History	Aviation
+Wescott and Degen	Wind and Sand The Story of the Wright Brothers at Kitty Hawk	Eastern National	26	History	Aviation
+Obee	Royal Oak Burial Park A History and Guide	Obee	10	History	British Columbia
+Berton	The Promised Land Settling the West 1896-1914	Anchor	3	History	Canadian
+Carlson (ed)	You Are Asked to Witness: The Stó:l_ in Canada's Pacific Coast History	Stó:l_ Heritage Trust	16	History	Canadian
+Davied (ed)	Many Voices II A Collective History of Greater Fort Erie	Fort Erie Museum Board	26	History	Canadian
+Duff	The Indian History of British Columbia The Impact of the White Man	Royal British Columbia Museum	16	History	Canadian
+Grantq	Victoria a History in Photographs	Altitude	16	History	Canadian
+Kerr (ed) et al	Historical Atlas of Canada	University of Toronto Press	31	History	Canadian
+Kurelek	They Sought A New World The story of European immigration to North America	Tundra	16	History	Canadian
+Ray	I Have Lived Here Since the World Began	Key Porter	28	History	Canadian
+Raymond	"Tales of the Old Town A History, Fort Erie Ontario"	Fort Erie Historical Museum	16	History	Canadian
+Stewart	The Adventures and Sufferings of John R Jewitt	Douglas & McIntyre	26	History	Canadian
+Vogel and Wyse	Vancouver a History in Photographs	Altitude	16	History	Canadian
+Bartlett et al	Over Hong Kong Volume 5 2e	Odyssey Books	31	History	Chinese
+Wiltshire	Old Hong Kong	FormAsia	25	History	Chinese
+Hughes	Barcelona	Vintage	5	History	European
+Boswell	Same-Sex Unions in Premodern Europe	Vintage	3	History	LGBT
+Mackinnon et al	Toronto's Visual Legacy Official City Photography from 1856 to Present	Lorimer	20	History	Photography
+Zamoyski	Poland A History	Hippocrene Books	Island	History	Poland
+Lukowski	A Concise Historey Of Poland 3e	Cambridge University Press	Island	History	Poland
+Diamond	Collapse How Societies Choose to Fail or Succeed	Penguin	17	History	Social
+Diamond	"Guns, Germs, and Steel The Fates of Human Societies"	Norton	17	History	Social
+Davis	History of Vancouver	Harbour	1	History	Vancouver
+Time	Lighting and Electricity	Time-Life Books	5	Home	Electricity
+Gore	2001 Household Hints & Dollar Stretchers	Hanover House	9	Home economics	History
+Alexander	The Vanishing Arctic	Facts on file	19	Human Ecology	Arctic
+Kheraj	Inventing Stanley Park	UBC Press	30	Human Ecology	Vancouver
+Connor and Downey	Is Martha Stuart Living	Harper	19	Humour	Parody
+Connor and Downey	Martha Stuart's better than you at Entertaining	Harper Perennial	19	Humour	Parody
+Abrams	A Glossary of Literary Terms 7e	Harcourt Brace	2	Language	English
+Bryson	The Mother Tongue English and how it got that way	Harper	2	Language	English
+Gucker	Essential English Grammar	Dover	2	Language	English
+Kendris	501 French Verbs 2e	Barrons	17	Language	English
+Quirk	A University Grammer of English	Longman	2	Language	English
+Abbadue et al	L'expression française écrite et orale	Presses Universitaires de Granobles	28	Language	French
+Anglade	Grammaire élémentaire de l'ancien français	Collection U	17	Language	French
+Cajolet-Laganière	Le français au bureau 3e	Publications de Québec	17	Language	French
+Capelle and Grellet	C'est facile à dire!	Hatier	28	Language	French
+Cicurel	Communiquer en francais	Didier	3	Language	French
+Corado	Français des affaires	Hachette	28	Language	French
+Corbeil	Dictionnaire Visuel Thematique	Quebec / Amerique	17	Language	French
+De Lage	Introduction à l'ancien français	Société d'édition d'enseignement supérieur	17	Language	French
+Forbes (ed) et al	Harrap's Concise French-English Dictionary	Harrap	17	Language	French
+Mahler	Grammaire expliquée du français contemporain	Canadian Scholars' Press Inc	17	Language	French
+McConnell	Vive le francais 7	Addison Wesley	1	Language	French
+McConnell et al	Vive le français 1	Addison Wesley	17	Language	French
+McConnell et al	Vive le français 2	Addison Wesley	17	Language	French
+McConnell et al	Vive le français 3	Addison Wesley	17	Language	French
+McConnell et al	Vive le français 4	Addison Wesley	17	Language	French
+McConnell et al	Vive le français 5	Addison Wesley	17	Language	French
+McConnell et al	Vive le français 6	Addison Wesley	17	Language	French
+Niquet	Structurer sa pensée structurer sa phrase	niveau supérieur	28	Language	French
+Rey (ed)	Le Micro-Robert Poche	Dictionnaires le Robert	17	Language	French
+Robinson and Smith	Dictionary of Canadian French	Stoddart	17	Language	French
+Siskin et al	Tâches d'encre Cours de composition	D C Heath and Company	17	Language	French
+Vinay and Darbelnet	Stylistique comparée du français et de l'anglais	Beauchemin	17	Language	French
+Banno et al	Genki 1 An Integrated Course in Elementary Japanes 2e	The Japan Times	19	Language	Japanese
+Banno et al	Genki 1 Worbook 2e	The Japan Times	19	Language	Japanese
+Amery	The Usborne First Thousand Words in Polish	Usborne	16	Language	Polish
+Bielec	Polish An Essential Grammar	Routledge	28	Language	Polish
+Fraser	The Language Guy's Polish Frequency Dictionary	Salem House Press	28	Language	Polish
+Grala	Z polskim na co dzie_	Pa_stwowe Wydawnictwo Naukowe	5	Language	Polish
+Grundy and Swan	The Routledge Intermediate Polish Reader	Routledge	28	Language	Polish
+Janecki	301 Polish Verbs	Barron's	28	Language	Polish
+Rudzka	w_ród Polaków Cz___ 2	Katolicki Uniwersytet Lubelski	28	Language	Polish
+Rudzka and Goczo_owa	w_ród Polaków Cz___ 1	Katolicki Uniwersytet Lubelski	28	Language	Polish
+Sadowska	Polish A Comprehensive Grammar	Routledge	28	Language	Polish
+Stempek	Polski Krok Po Kroku 1	Glossa	22	Language	Polish
+Stempek	Polski Krok Po Kroku 2	Glossa	1	Language	Polish
+Freedman	Critical Theory and Science Fiction	Wesleyan University Press	3	Literary Criticism	English
+Greenberg	The Collected Essays and Criticism Volume 1 1939 - 1944	University of Chicago Press	3	Literary Criticism	English
+Leguin	Steering the Craft a 21st-Century Guide to Sailing the Sea of Story	Mariner	15	Literary Criticism	English
+Matthew	Janet Frame Semiotics and Biosemiotics in Her Early Fiction	Farleigh Dickinson University Press	4	Literary Criticism	English
+Pinkr	The Sense of Style	Viking	3	Literary Criticism	English
+Roberts	The History of Science Fiction	Palgraves	3	Literary Criticism	English
+Leguin	Dancing at the Edge of the World	Grove	15	Literary Criticism	Essays
+Leguin	"The Wave in the Mind Talks and Essays on the Writer, the Reader, and the Imagination"	Shambala	15	Literary Criticism	Essays
+Leguin	Words are my Matter Writing about Life and Books 2000-2016	Small Beer Press	15	Literary Criticism	Essays
+Irving	A Prayer for Own Meany	Ballantine	24	Literature	American
+Mailler	Existential Errands	Signet	10	Literature	American
+Rand	Atlas Shrugged	Signet	10	Literature	American
+Rand	The Fountainhead	Signet	10	Literature	American
+Steinbeck	Of Mice and Men	Bantam	10	Literature	American
+Vidal	Kalki	Random House	Island	Literature	American
+Willians	The Glass Menagerie	Signet Classic	29	Literature	American
+Atwood	The Edible Woman	Bantam	19	Literature	Canadian
+Laurence	The Stone Angel	Seal Books	18	Literature	Canadian
+MacDonald	Fall On Your Knees	Vintage	18	Literature	Canadian
+MacDonald	Goodnight Desdemona (Good morning Juliet)	Vintage	29	Literature	Canadian
+Montgomery	Anne of Green Gables	Folio	37	Literature	Canadian
+Richardson et al	The Alphabet Thief	Groundwood Books	20	Literature	Canadian
+Ryga	The Ecstasy of Rita Joe	Talonbooks	29	Literature	Canadian
+Leguin	No Time To Spare	Houghton Mifflin Harcourt	36	Literature	Criticism
+Mendlesohn	Rhetorics of Fantasy	Wesleyan	36	Literature	Criticism
+Albee	The Collected Plays of Edward Albee Volume 1 1958-1965	Overlook Duckworth	4	Literature	English
+Albee	The Collected Plays of Edward Albee Volume 2 1966-1977	Overlook Duckworth	4	Literature	English
+Albee	The Collected Plays of Edward Albee Volume 3 1978-2003	Overlook Duckworth	20	Literature	English
+Austen	Sense and Sensibility	Oxford	2	Literature	English
+Bronte	Jane Eyre	Modern Library Classics	30	Literature	English
+Brontë	Shirley	Wordsworth Classics	18	Literature	English
+Fielding	Joseph Andrews	Penguin	2	Literature	English
+Forster	A Passage to Indio	BOMC	30	Literature	English
+Forster	A Room With a View	BOMC	30	Literature	English
+Forster	Howard's End	BOMC	30	Literature	English
+Forster	Maurice	BOMC	30	Literature	English
+Forster	The Longest Journey	BOMC	30	Literature	English
+Forster	Where Angels Fear to Tread	BOMC	30	Literature	English
+Frame	A State of Siege	George Braziller	4	Literature	English
+Frame	An Autobiography	George Braziller	4	Literature	English
+Frame	An Autobiography Copy 2	George Braziller	4	Literature	English
+Frame	Between My Father and The King	Counterpoint	4	Literature	English
+Frame	Daughter Buffalo	George Braziller	4	Literature	English
+Frame	Faces In The Water	George Braziller	4	Literature	English
+Frame	Intensive Care	George Braziller	4	Literature	English
+Frame	Jay To Bee	Counterpoint	36	Literature	English
+Frame	Living in the Maniototo	George Braziller	4	Literature	English
+Frame	Mona Minim and the Smell of the Sun	Braziller	35	Literature	English
+Frame	Owls Do Cry	Sun Books	4	Literature	English
+Frame	Scented Gardens For The Blind	George Braziller	4	Literature	English
+Frame	"Snowman, Snowman Fables and Fantasies"	George Braziller	4	Literature	English
+Frame	The Adaptable Man	George Braziller	4	Literature	English
+Frame	The Carpathians	George Braziller	4	Literature	English
+Frame	The Daylight and the Dust Selected Short Stories	Virago	4	Literature	English
+Frame	The Edge of the Alphabet	George Braziller	4	Literature	English
+Frame	The Reservoir Stories and Sketches	Forgotten Books	4	Literature	English
+Frame	Towards Another Summer	Counterpoint	4	Literature	English
+Frame	Yellow Flowers in the Antipodean Room	George Braziller	4	Literature	English
+Frame	You Are Now Entering the Human Heart	The Women's Press	4	Literature	English
+Geddes	20th Century Poetry and Poetics	Oxford	4	Literature	English
+Heald (ed)	The Bes After Dinner Stories	Folio	28	Literature	English
+Hutchinson	If Winter Comes	Grosset and Dunlap	17	Literature	English
+Kipling	The Man Who Would Be Kind and Other Stories	Dover	29	Literature	English
+LeFanu	Green Tea and Other Ghost Stories	Dover	29	Literature	English
+Manguel (ed)	"Meanwhile, in another part of the forest"	Knopf	16	Literature	English
+Mann	Thomas Mann Complete & Unabridged	Heinemann and Octopus	15	Literature	English
+Maugham	W Sommerset Maugham Complete & Unabridged	Heinemann and Octopus	15	Literature	English
+McMillin (ed)	Restoration and Eighteenth-Century Comedy	Norton Critical Editions	17	Literature	English
+Orwell	Animal Farm	Folio	19	Literature	English
+Poe	Tales of Mystery and Imagination	J M Dent and Sons	17	Literature	English
+Shakespeare	The Complete Works of William Shakespeare (John Dover Wilson)	Cambridge University Press	37	Literature	English
+Shakespears	Othello	Signet Classic	29	Literature	English
+Shakespears	The Sonnets	Those Great Littl Books	29	Literature	English
+Shelley	Frankenstein	Oxford	29	Literature	English
+Vonnegut	Kurt Vonnegut Complete & Unabridged	Heinemann and Octopus	15	Literature	English
+"Vonnegut, Jr."	Welcome to the Monkey House	Dell	5	Literature	English
+Woolf	Orlando	Penguin	18	Literature	English
+Wyndham	The Chrysalids	House of Grant	38	Literature	English
+Tolkien	The Fellowship of the Ring	Folio	9	Literature	Fantasy
+Tolkien	The Hobbit	Folio	9	Literature	Fantasy
+Tolkien	The Return of the King	Folio	9	Literature	Fantasy
+Tolkien	The Two Towers	Folio	9	Literature	Fantasy
+Beaumarchais	The Barber of Seville The Marriage of Figaro	Penguin Classics	29	literature	French
+Bédier	The Romance of Tristan & Iseult	Vintage	29	Literature	French
+Camus	The Outsider	Penguin	29	Literature	French
+Corneille	The Cid / Cinna / The Theatrical Illusion	Penguin Classics	29	Literature	French
+de Balzac	Père Goriot	Signet Classic	29	Literature	French
+Flaubert	Madame Bovary	Classiques Garnier	29	Literature	French
+Flaubert	Madame Bovary	Signet Classic	29	Literature	French
+Fournier	Le Grand Meaulnes	Penguin	29	Literature	French
+Gide	The Immoralist	Vintage	29	Literature	French
+Molière	The Nisanthrope and Tartuffe	HBJ	29	Literature	French
+Montesquieu	Lettres Persanes	Classiques Garnier	29	LIterature	French
+Rabelais	Gargantua and Pantagruel	Penguin Classics	29	Literature	French
+Racine	Iphigenia / Phaedra / Athaliah	Penguin Classics	29	Literature	French
+Voltaire	Candide	Bantam	29	Literature	French
+Zola	Germinal	Signet Classic	29	Literature	French
+Hollinghurst	The Folding Star	Vintage	30	Literature	Gay
+Hollinghurst	The Spell	Vintage	30	Literature	Gay
+Hollinghurst	The Swimming Pool Library	Penguin	30	Literature	Gay
+Puchner	The Written Word	Random House	37	Literature	History
+Joyce	A Portrait of the Artist as a Young Man	Pocket Books	18	Literature	Irish
+Ibsen	The Wild Duck	Dover	29	Literature	Norwegian
+Prus	The Doll	Nyrb	23	Literature	Polish
+Chehkov	The Three Sisters	Dover	29	Literature	Russian
+Chernyshevsky	What is to be done?	Cornell	7	Literature	Russian
+Dostoyevsky	Crime and Punishment	Penguin Classics	29	Literature	Russian
+Dostoyevsky	Crime and Punishment	Illustrated Modern Library	29	Literature	Russian
+Dostoyevsky	Notes from Underground / The Double	Penguin Classics	29	Literature	Russian
+Dostoyevsky	The Brothers Karamazov	Bantam	29	Literature	Russian
+Dostoyevsky	The Devils	Penguin Classics	29	Literature	Russian
+Turgenev	Fathers and Sons	Penguin Classics	29	Literature	Russian
+Stewart	Martha Stewart Living Number 3	Martha Stewart Living	19	Magazine	Lifestyle
+Stewart	Martha Stewart Living Number 4	Martha Stewart Living	19	Magazine	Lifestyle
+Stewart	The best of Martha Stewart Living Handmade Christmas	Martha Stewart Living	19	Magazine	Lifestyle
+O'Reilly	This I Know Marketing Lessons from Under the Influence	Knopf Canada	3	Marketing	Marketing
+Kaplan	Advancted Mathematics for Engineers	Addison Wesley	27	Mathematics	Advanced Foundations
+Anton	Elementary Linear Algebra 3e	Wiley	27	Mathematics	Algebra
+Bretscher	Linear Algebra with Applications	Prentice Hall	27	Mathematics	Algebra
+Shields	Elementary Linear Algebra 3e	Worth	27	Mathematics	Algebra
+Ellenberg	How Not to Be Wrong The Power of Mathematical Thinking	Penguin	37	Mathematics	Analysis
+Anderson et al	Single Variable Calculus Student Solution Manual	Thomson Brooks	27	Mathematics	Calculus
+Campbell	Calculus and Analytic Geometry 2e	"Prindle, Weber & Schmidt"	1	Mathematics	Calculus
+Campbell and Dierker	Student Supplement to Accompany Calculus with Analytic Geometry	"Prindle, Weber & Schmidt"	27	Mathematics	Calculus
+Clegg and Frank	Multivariable Calculus Student Solution Manual	Thomson Brooks	27	Mathematics	Calculus
+Hurley	Intermediate Calculus	Saunders College	1	Mathematics	Calculus
+Repka	Calculus with Analytic Geometry	WCB	1	Mathematics	Calculus
+schew	"Div, Grad, Curl, and all That an Informal Text on Vector Calculus"	W W Norton	27	Mathematics	Calculus
+Stewart	Calculus Eary Transcendentals	Thomson Brooks	27	Mathematics	Calculus
+Stewart et al	Calculus a First Course	McGraw Hill	27	Mathematics	Calculus
+Thomas and Finney	Calculu and Analytic Geometry	Addison Wesley	27	Mathematics	Calculus
+Boyce and DiPrima	Elementary Differential Equations and Boundary Value Problems 3e	John Wiley & Sons	27	Mathematics	Differential Equations
+Zill	A First Course in Differential Equationds 2e	"Prindle, Weber & Schmidt"	27	Mathematics	Differential Equations
+Pogorelov	Differential Geometry	Noordhoff	1	Mathematics	Differential Geometry
+Kreyszig	Differential Geometry	Dover	Island	Mathematics	Differential Geometry
+Epp	Discrete Mathematics With Applications 3e	Brooks/Cole	1	Mathematics	Discrete Math
+Epp	Solutions Manual for Discrete Mathematics With Applications 3e	Brooks/Cole	1	Mathematics	Discrete Math
+Grimaldi	Discrete and Combinatorial Mathematics	Pearson	1	Mathematics	Discrete Math
+Liu	Elements of Discrete Mathematics	McGraw Hill	1	Mathematics	Discrete Math
+Dottori et al	Foundations of Mathematics 12	McGraw Hill	27	Mathematics	Foundations
+Tolstov	Fourier Series	Dover	Island	Mathematics	Fourier
+Pedoe	Geometry a Comprehensive Course	Dover	2	Mathematics	Geometry
+Trudeau	Introduction to Graph Theory	Dover	2	Mathematics	Graph Theory
+Thomason	Symbolic logic an introductiomn	Macmillan	27	Mathematics	Logic
+Velleman	How To Prove It A Structured Approach 2e	Cambridge University Press	Island	Mathematics	Logic
+Ross	A First Course in Probability 8e	Prentice Hall	27	Mathematics	Probability
+Scheaffer abnd Mendenhall	Introduction to Probability Theory and Applications	Duxburry Press	27	Mathematics	Probability
+Rozanov	Probability Theory: A Concise Course	Dover	Island	Mathematics	Probability
+Moore et al	Introduction to the Practice of Statistics 6e	Freeman	27	Mathematics	Statistics
+Mendelson	Introduction to Topology 3e	Dover	Island	Mathematics	Topology
+Beer and Johnston	Vector Mechanics for Engineers Statics and Dynamics	McGraw Hill	27	Mathematics	Vector Mechanics
+Graves	The Greek Myths Volume 1	Folio	19	Mythology	Greek
+Graves	The Greek Myths Volume 2	Folio	19	Mythology	Greek
+Macpherson	Four Ages of Man	Macmillan	15	Mythology	Greek
+Charan et al	The Leadership Pipeline How to Build the Leadership Powered Company	Jossey-Bass	37	Nonfiction	Business
+Clifton	Discover Your Clifton Strengths	Gallup	37	Nonfiction	Business
+Boy Scouts of Canada	Canadian Scout Handbook 3e	National Council Boy Scouts of Canada	18	Nonfiction	Children
+Lebowitz	The Fran Leowitz Reader	Vintage	16	Nonfiction	Essays
+Smith	How to do Nothing with NoBody All Alone by Yourself	Tin House Books	37	Nonfiction	Humour
+Manson	Everything is F*cked	Harper	37	Nonfiction	Self help
+Manson	The Subtle Art of Not Giving a F*ck	Harper	37	Nonfiction	Self help
+Charlton	1975 standard catalogue of Canadian coins tokens & paper money	Charlton	7	Numismatics	Canadian
+Reinfelt	Coin Collectors' Handbook	Sterling	7	Numismatics	Canadian
+Whitman	Canadian Dime Collection 1937 to DATE Number Two	Whitman	7	Numismatics	Canadian
+Whitman	Canadian Half Dollar Collection 19561 to DATE Number Two	Whitman	7	Numismatics	Canadian
+Whitman	Canadian Nickel Collection 1922 to 1960 Number One	Whitman	7	Numismatics	Canadian
+Whitman	Canadian Quarter Collecton 1911 to 1952 Number Two	Whitman	7	Numismatics	Canadian
+Whitman	Canadian Silver Dollar Collection 1935 to 1957 Number One	Whitman	7	Numismatics	Canadian
+Whitman	Canadian Small Cent Collection 1920 to DATE	Whitman	7	Numismatics	Canadian
+FESS	Yearbook 88-89	FESS	19	Personal	Yearbook
+FESS	Yearbook 89-90	FESS	19	Personal	Yearbook
+FESS	Yearbook 90-91	FESS	19	Personal	Yearbook
+Cooper	Aesthetics	Wiley	Island	Philosophy	Aesthetics
+Sim	Introducing Critical Theory	Icon	3	Philosophy	Critical Theory
+Sardar	Introducing Cultural Studies	Icon	3	Philosophy	Cultural Studies
+Singer	Practical Ethics 2e	Cambridge University Press	30	Philosophy	Ethics
+Bakewell	At the existential café	Vintage Canada	36	Philosophy	Existentialism
+Bakewell	At the existential café	Vintage Canada	36	Philosophy	Existentialism
+Descartes	Meditations and Other Metaphysical Writings	Penguin Classics	29	Philosophy	French
+Montaigne	Selections from the essays	Croft Classics	29	Philosophy	French
+Aristotle	Ethics	Folio	16	Philosophy	Greek
+Cicero	On the good life	Folio	16	Philosophy	Greek
+Plato	Republic	Folio	16	Philosophy	Greek
+Russell	The History of Western Philosophy	Folio	28	Philosophy	History
+Kreet	Between Heaven & Hell A Dialog Somewhere Behind Death	IVP	30	Philosophy	Modern
+Mi_osz	The Captive Mind	Vintage International	Island	Philosophy	Poland
+Catholic Church	The New First Mass Book	The Catholic Publishing Company	28	Philosophy	Religious
+Ishaq	The Life of Muhammad	Folio	7	Philosophy	Religious
+Kurtz	The Transcdental Temptation A Critique of Religion and the Paranormal	Prometheus	7	Philosophy	Religious
+Peterson	Reason & Religious Belief An Intro to the Philosophy of Religion	Oxford	7	Philosophy	Religious
+Andrew	"Bilingual Today, French Tomorrow"	BMG	5	Politics	Canadian
+Barnes	Programming in Ada 2005	Addison Wesley	20	Programming	Ada
+Brechner	Agile Project Management with Kanban	Microsoft	35	Programming	Agile
+Martin	Clean Agile	Pearson	28	Programming	Agile
+Ries	Agile Project Management	Independent	35	Programming	Agile
+Sutherland et al	Scrum	Currency	35	Programming	Agile
+Knuth	The Art of Computer Programming Volume 1 Fundamental Algorithms	Addison Wesley	37	Programming	Algorithms
+Knuth	The Art of Computer Programming Volume 2 Seminumerical Algorithms	Addison Wesley	37	Programming	Algorithms
+Knuth	The Art of Computer Programming Volume 3 Sorting and Searching	Addison Wesley	37	Programming	Algorithms
+Martin	Clean Architecture	Prentice Hall	22	Programming	Architecture
+Levy	The Joy of Computer Chess	Prentice Hall	3	Programming	Artificial Intelligence
+Leventhal	Z80 Assembly Language Programming	Osborne / McGraw-Hill	Island	Programming	Assembler
+Struble	Assembler Language Programming The IBM System /360 and 370 2e	Addison Wesley	Island	Programming	Assembler
+Albrecht et al	Basic 2e A Self-Teaching Guide	Wiley	Island	Programming	Basic
+Kernighan and Ritchie	The C Programming Language	Prentice Hall	20	Programming	C
+Kernighan and Ritchie	The C Programming Language 2e	Prentice Hall	20	Programming	C
+"Nichols, Butlar, Farrell"	Pthreads	O'Reilly	20	Programming	C
+Gottschling	Discovering Modern C++	Addison Wesley	36	Programming	C++
+Meyers	Effective Modern C++	O'Reilly	36	Programming	C++
+Prata	C++ Primer Plus 6e	Addison Wesley	36	Programming	C++
+Stephens	The C++ Cookbook	O'Reilly	36	Programming	C++
+Stroustrup	Programming Principles and Practice Using C++	Addison Wesley	36	Programming	C++
+Stroustrup	The C++ Language 4e	Addison Wesley	36	Programming	C++
+Cole et al	AWS Certified SysOps Administrator Official Stuy Guide	Sybex	35	Programming	Cloud
+Piper	AWS Certified Solution Architect Study Guide	Sybex	35	Programming	Cloud
+Ashley	ANS Cobol 2e	Wiley	1	Programming	Cobol
+Brown	Advanced ANS Cobol with Structured Programming	Wiley	1	Programming	Cobol
+Aho and Illman	Principles of Compiler Design	Addison Wesley	21	Programming	Compilers
+Bornat	Understanding and Writing Compilers	Macmillan	21	Programming	Compilers
+Guttag	Introduction to Computation and Programming Using Python	MIT Press	23	Programming	Computational Thinking
+Gamma et al	Design Patterns	Addison Wesley	22	Programming	Design
+Keeling	Design It! From Programmer to Software Architect	Pragmatic Bookshelf	35	Programming	Design
+Larman	Applying UML and Patterns 3e	Prentice Hall	22	Programming	Design
+Patton	User Story Mapping	O'Reilly	Reading	Programming	Design
+Kim et al.	The DevOps Handbook	IT Revolution	35	Programming	Devops
+"Kim, Behr, Spafford"	The Phoenix Project	IT Revolution	23	Programming	Devops
+Fowler	Refactoring 2e	Pearson	22	Programming	Engineering
+Kleppmann	Designing Data-Intensive Applications	O'Reilly	22	Programming	Engineering
+Ousterhout	A Philosophy of Software Design	Yaknyam Press	35	Programming	Engineering
+Petre and van der Hoek	Software Design Decoded 66 Ways Experts Thinkl	MIT Press	35	Programming	Engineering
+Brooks	The Mythical Man-Month Essays on Software Engineering	Addison Wesley	3	Programming	Engineering
+Bunt	Structured Fortran	McGraw Hill	1	Programming	Fortran
+Botsch et al	Polygon Mesh Processing	A K Peters	22	Programming	Graphics
+Foley and Van Dam	Fundamentals of Interactive Computer Graphics	Addison Wesley	21	Programming	Graphics
+Dowd	Getting Connected The Internet at 56k and Up	O'Reilly	Island	Programming	History
+Bagnall	Maximum Lego EV3	Variant Press	Students	Programming	Java
+"Barnes, Kolling"	Objects First With Java 6e	Pearson	20	Programming	Java
+Bloch	Effective Java 3e	Addison Wesley	22	Programming	Java
+Deiter	Jave How to Program 10e	Pearson	22	Programming	Java
+Goetz et al	Java Concurrency in Practice	Addison Wesley	22	Programming	Java
+Horstmann	Core Java Volume 1 11e	Prentice Hall	22	Programming	Java
+Horstmann	Core Java Volume 2 11e	Prentice Hall	22	Programming	Java
+Horstmann	Java SE 8 For The Really Impatient	Addison Wesley	22	Programming	Java
+Langr	Pragmatic Unit Testing in Java 8 With Junit	Pragmatic Bookshelf	22	Programming	Java
+Markham	Java Programming Interviews Exposed	Wrok	20	Programming	Java
+Richardson	Microservice Patterns	Manning	Reading	Programming	Java
+Ducket	JavaScript and Jquery	Wiley	35	Programming	JavaScript
+Haverbeke	Eloquent JavaScript	No Starch Press	35	Programming	JavaScript
+Gaston	How to use Objects Code and Concepts	Addison Wesley	23	Programming	Object Oriented
+Arpaci-Dusseau et al	Operating Systems: Three Easy Pieces	CreateSpace	35	Programming	Operating Systems
+Grogono	Programming in PASCAL Revised edition	Addison Wesley	Island	Programming	Pascal
+Heiserman	Pascal	TAB	Island	Programming	Pascal
+Ghezzi et al	Programming Language Concepts	Wiley	21	Programming	Programming
+Krishnamurthi	Programming Languages	Brown	1	Programming	Programming
+Lin	Principles of Parallel Programming	Pearson	1	Programming	Programming
+Standish	Data Structure Techniques	Addison Wesley	21	Programming	Programming
+Chou	Mastering Python Networking	Packt	23	Programming	Python
+Danjou	Serious Python	No Starch Press	23	Programming	Python
+Gaddis	Starting out with Python 4th edition copy 1	Pearson	23	Programming	Python
+Gift et al.	Python For DevOps	O'Reilly	23	Programming	Python
+Gries et al	Practical Programming 3e An Intro to CS Using Python 3.6	Pragmatic Bookshelf	23	Programming	Python
+Kirk	Thoughtful Machine Learning with Python	O'Reilly	23	Programming	Python
+Lee	Python Machine Learning	Wiley	23	Programming	Python
+Lott	Mastering Object-Oriented Python 2e	Packt	23	Programming	Python
+Percival	Test-Driven Development wih Python	O'Reilly	23	Programming	Python
+Phillips	Python 3 Object Oriented Programming 3e	Packt	23	Programming	Python
+Ramalho	Fluent Python	O'Reilly	23	Programming	Python
+Slatkin	Effective Python 2e	Addison Wesley	23	Programming	Python
+Sweigart	Automate the Boring Stuff With Python 2e	No Starch Press	23	Programming	Python
+Gore and Stubbe	Elements of Systems Analysis	William C Brown	21	Programming	Systems Analysis
+Satzinger et al	Systems Analysis & Design in a Changing World 4e	Thomson Brooks	21	Programming	Systems Analysis
+Tarlinder	Developer Testing	Addison Wesley	22	Programming	Testing
+Knuth	The TEXbook	Addison Wesley	Island	Programming	Tex
+Ducket	HTML and CSS Design and Build Websites	Wiley	20	Programming	Web
+Katz	Xquery from the Experts	Addison Wesley	Island	Programming	Xquery
+McWhirter (ed)	Guinness Book of World Records 1978	Guinness Superlatives	26	Reference	Human feats
+Saunders	Small Craft Piloting & Coastal Navigation	RTP Sales	19	Sailing	Navigation
+Seidman	The Complete Sailor Learning the Art of Sailing	McGraw Hill	19	Sailing	Sailing
+Donald (ed)	The Classic Civil Aircraft Guide From 1920 to 1964	Prospero Books	25	Science	Aeronautics
+Harari	Homo Deus	McClelland and Stewart	36	Science	Anthropology
+Harari	Sapiens A Brief History of Humankind	Signal	35	Science	Anthropology
+Papaginni	The Neanderthals Rediscovered	Thames & Hudson	37	Science	Anthropology
+Enright	The Beginner's Observing Guide	Royal Astronomical Society of Canada	3	Science	Astronomy
+Muller	Nemesis The Death Star The Story of a Scientific Revolution	Weidenfeld & Nicholson	17	Science	Astronomy
+Oceana	Night Sky Pocket Guide	Oceana	9	Science	Astronomy
+Mazda	2008 Mazda MX-5 Owner's Manual	Mazda	17	Science	Automobile
+Budiansky	The Character of Cats	Viking	17	Science	Biology
+Darwin	The Voyage of HMS Beagle	Folio	5	Science	Biology
+Gould	The Structure of Evolutionary Theory	Harvard University Press	28	Science	Biology
+Sapolsky	A primate's memoire	Scribner	36	Science	Biology
+Sapolsky	Behave: The Biology of Humans at Our Best and Worst	Penguin	37	Science	Biology
+Pojar	Plants of Coastal British Columbia	Partners	37	Science	Botany
+Tracey	Vancouver Tree Book	Pure wave media	22	Science	Botany
+Change	Chemistry 4e	McGraw Hill	26	Science	Chemistry
+Mills and Chang	Student Solutions Manual to Accompany Chemistry 4e	McGraw Hill	26	Science	Chemistry
+Mortimer	Chemistry A Conceptual Approach 4e	D Van Nostrand	26	Science	Chemistry
+Curzon	The Power of Computational Thinking	World Specific	36	Science	Computational Thinking
+Filho	Computer Science Distilled	Code Energy	22	Science	Computational Thinking
+Krauss	Computational Thinking {and Coding} for Every Student	Corwin	36	Science	Computational Thinking
+Levesque	Thinking as Computation A First Course	MIT Press	36	Science	Computational Thinking
+Riley	Computational Thinking for the Modern Problem Solver	CRC Press	36	Science	Computational Thinking
+Ascher and Greif	A First Course in Numerical Methods	SIAM	21	Science	Computer science
+Burden et ak	Numerical Analysis 2e	PWS	21	Science	Computer science
+Christian	Algorithms to Live By The Computer Science of Human Decisions	Picador	Reading	Science	Computer science
+Givone and Roesser	Microprocessor / Micrcomputers: An Introduction	McGraw Hill	Island	Science	Computer science
+Kleinberg and Tardos	Algorithm Design	Addison Wesley	21	Science	Computer science
+Lewis and Papadimitriou	Elements of the Theory of Computations	Prentice Hall	Island	Science	Computer science
+Mano	Digital Logic and Computer Design	Prentice Hall	Island	Science	Computer science
+Nisan and Schocken	The Elements of Computer Systems	MIT Press	21	Science	Computer science
+Tanenbaum	Computer Networks	Prentice Hall	Island	Science	Computer science
+Tremblay and Bunt	An Introduction to Computer Science an Algorithmic Approach	McGraw Hill	Island	Science	Computer science
+Wolfram	A New Kind of Science	Wolfram Media	26	Science	Computer science
+Zaks	From Chips to Systems: An Introduction to Microprocessors	Sybex	Island	Science	Computer science
+Bryant and O'Hallaron	Computer Systems A Programmer's Perspective 2e	Prentice Hall	21	Science	Computer systems
+Forsyth and Ponce	Computer Vision a Modern Approach 2e	Prentice Hall	21	Science	Computer vision
+Randall	Dark Matter and the Dinosaurs	Ecco	3	Science	Cosmology
+Platt	How Not to Be Wrong The Power of Mathematical Thinking	Maker Media	35	Science	Electronics
+Wohlleben	The Hidden Life of Trees	Greystone	2	Science	Environmentalism
+Brickell (ed)	Practical Guide to Gardening in Canada	Reader's Digest	25	Science	Gardening
+Clevely	The New Guide to Herbs	Ultimate Editions	25	Science	Gardening
+Colborn	The Container Garden	"Little, Brown and Company"	26	Science	Gardening
+Harbison and James	The Italian Garden	Abrams	25	Science	Gardening
+Innes	The Ornamental Gardener	Headline	26	Science	Gardening
+Loxton	History of the Garden Its Evolution & Design	Bounty Books	31	Science	Gardening
+McHoy	Houseplants	Hermes House	17	Science	Gardening
+Stevens	The Garden Design Sourcebook	Raincoast Books	26	Science	Gardening
+Van Patten	New Revised Gardening Indoors	Van Patten	26	Science	Gardening
+David et al	Geology Our Physical Environment	McGraw Hill	16	Science	Geology
+Alexander	The Endurance Shackleton's Legendary Antarctic Expedition	Alfred A Knopf	16	Science	History
+Kurlansky	Salt	Peng	35	Science	History
+Dawkins	The God Delusion	Mariner	3	Science	Irreligion
+McWhorter	The Power of Babel a Natural History of Language	Times	5	Science	Linguistics
+Pinker	The Language Instinct	William Morrow and Co	5	Science	Linguistics
+Fisher and Loxton	Secrets of the Maze	Thames & Hudson	25	Science	Mazes
+Bolton et al	Cuerrent Atlas Juan de Fuca Strait to Strait of Georgia	Canadian Hydrographice Service	25	Science	Oceanography
+Thomson	Oceanography of the British Columbia Coast	Department of Fisheries and Oceans	25	Science	Oceanography
+Peterson and Silberschatz	Operating System Concetra	Addison Wesley	21	Science	Operating systems
+Sterland	Energy into Power	Aldus Books London	19	Science	Physics
+Bryson	A Short History Of Nearly Everything	Anchor	37	Science	Popular
+Arduino	Arduino Projects Book	Arduino	35	Science	Robotics
+Perdue	The Unofficial Lego Mindstorms NXT Inventor's Guide	No Starch Press	Lego	Science	Robotics
+Griffin (ed)	Inside Out The Best of National Geographic Diagrams and Cutaways	National Geographic Society	31	Science	Science
+Thompson	America's Lost Treasure A Pictorial Chronicle of the Sinking and Recovery of the United States Mail Steamship Central America	Atlantic Monthly Press	25	Science	Shipwrecks
+Schaap	An Illustrated History of the Olympics 3e	Ballantine	19	Sports	Olympics
+Midgley (ed) et al	Rules of The Game The Complete Illustrated Encyclopedia of all the Sports of the World	Bantam	31	Sports	Sports
+Kondo	The life-changing magic of tidying up	Ten speed press	22	Technology	Organization theory
+Campbell	Creative Medieval Designs for Applique		34	Technology	Quilting
+Fassett	Glorious Patchwork		34	Technology	Quilting
+Goldberg	The New Quilting and Patchwork Dictionary		34	Technology	Quilting
+James	The Quiltmaker's Handbook		34	Technology	Quilting
+James	The Second Quiltmaker's Handbook		34	Technology	Quilting
+Leone	The New Sampler Quilt		34	Technology	Quilting
+Pattullo	Textile Collage	Batsford	Island	Technology	Quilting
+Aldrich	Metric Pattern Cutting for Men		34	Technology	Sewing
+Doyle	Laundry the Whys and Hows of Cleaning Clothes		34	Technology	Sewing
+Doyle	The Art of the Tailor		Gaby	Technology	Sewing
+Gaston	Learn Upholstery		34	Technology	Sewing
+Hemingway	The Encyclopedia of Stitches		34	Technology	Sewing
+Shaeffer	Couture Sewing Techniques		34	Technology	Sewing
+Shaeffer	High-Fashion Sewing Secrets		34	Technology	Sewing
+Singer	Sewing for the Home		34	Technology	Sewing
+Threads	Great Sewn Clothes		34	Technology	Sewing
+Brackmann	The Surface Designer's Handbook		34	Technology	Textiles
+Gordon	Textiles the Whole Story		35	Technology	Textiles
+Berman	Eyewitness Travel New York	Dorling Kindersley	7	Travel	America
+Okamoto	Golden Gate National Recreation Area Guide to the Parks	Golden Gate National Park Association	17	Travel	American
+Dattani et al	The Rough Guide to Cambodia	Rough Guides	20	Travel	Cambodia
+Ray et al	Cambodia	Lonely Planet	20	Travel	Cambodia
+Shoalts	Beyond The Trees A Journey Alone Across Canada's Arctic	Allen Lane	20	Travel	Canadian
+Harper	Lonely Planet Hong Kong	Lonely Planet	7	Travel	China
+Harper	Lonely Planet Shanghai City Guide	Lonely Planet	7	Travel	China
+Ceriani	Eyewitness Tavel Croatia	Dorling Kindersley	7	Travel	Croatia
+Soukup	Eyewitness Travel 2014 Prague	Dorling Kindersley	7	Travel	Czechia
+Leapman	Eyewitness Travel London	Dorling Kindersley	7	Travel	England
+Williams	Eyewitness Travel Top 10 London	Dorling Kindersley	7	Travel	England
+Frommer's	Europe on $40 a Day (1990)	Frommer's	5	Travel	Europe
+McKelvie	Top 10 Dubrovnik and the Dalmatian Coast	Dorling Kindersley	5	Travel	Europe
+Menkes-Ivry	3-D City Guides Paris	Duncan Petersen	7	Travel	France
+Porter	Frommer's Paris 2011	Wiley	7	Travel	France
+Tillier	Eyewitness Travel 2014 Paris	Dorling Kindersley	7	Travel	France
+Scheunemann	Eyewitness Travel Top 10 Berlin	Dorling Kindersley	7	Travel	Germany
+Eyewitness Travel	Milan and The Lakes	DK	21	Travel	Italy
+Eyewitness Travel	Rome 2017	DK	21	Travel	Italy
+Eyewitness Travel	Top 10 Florence and Tuscany	DK	21	Travel	Italy
+Bender	Lonely Planet Tokyo City Guide	Lonely Planet	7	Travel	Japan
+Ghose	Eyewitness Travel Tokyo	Dorling Kindersley	7	Travel	Japan
+Reiber	Frommer's Japan 9th Edition	Wiley	7	Travel	Japan
+Richmond	The Rough Guide To Japan	Rough Guide	7	Travel	Japan
+Inman	Eyewitness Travel Mexico	Dorling Kindersley	7	Travel	Mexico
+Czerniewicz-Umer	Eyewitness Travel Cracow	Dorling Kindersley	7	Travel	Poland
+Niven	Lonely Planet Sri Lanka	Lonely Planet	7	Travel	Sri Lanka
+Eyewitness Travel	Vietnam	DK	20	Travel	Vietnam
+Montgomery	Happy City Transforming Our Lives Through Urban Design	Doubleday	3	Urban Studies	City Planning
+Ellard	Places of the Heart The Psychogeography of Everyday Life	Bellevue Literary Press	3	Urban Studies	Psychogeography
+Ovenden	Transit Maps of the World	Penguin	5	Urban Studies	Transportation
+Schwartz	Street Smart The Rise of Cities and the Fall of Cars	Public Affairs	3	Urban Studies	Transportation
+Strawbridge Howard	Dancing with Bees A Journey back to Nature	Chelsea Green Publishing	Reading	Science	Biology
+Neville	Janet Frame's World of Books	ibidem-verlag	Reading	Literature	English
+Wiltshire	Home Computers: 100 Icons that Defined a Digital Generation	MIT Press	Reading	Technology	History
+Grohmann	Paul Klee	"Harry N. Abrams, Inc."	Reading	Art	Fine Art
+Charles	Wildness An Ode to Newfoundland and Labrador	Phaidon	Reading	Cooking	Canadian
+Sinclair	Morrisseau	Editions Franco-Amerique	Reading	Art	Canadian
